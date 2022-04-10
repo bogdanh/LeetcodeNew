@@ -1,0 +1,12 @@
+/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q383_Ransom_Note/bin/Debug/net5.0/Q383_Ransom_Note.deps.json
+/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q383_Ransom_Note/bin/Debug/net5.0/Q383_Ransom_Note.dll
+/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q383_Ransom_Note/bin/Debug/net5.0/ref/Q383_Ransom_Note.dll
+/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q383_Ransom_Note/bin/Debug/net5.0/Q383_Ransom_Note.pdb
+/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q383_Ransom_Note/obj/Debug/net5.0/Q383_Ransom_Note.csproj.AssemblyReference.cache
+/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q383_Ransom_Note/obj/Debug/net5.0/Q383_Ransom_Note.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q383_Ransom_Note/obj/Debug/net5.0/Q383_Ransom_Note.AssemblyInfoInputs.cache
+/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q383_Ransom_Note/obj/Debug/net5.0/Q383_Ransom_Note.AssemblyInfo.cs
+/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q383_Ransom_Note/obj/Debug/net5.0/Q383_Ransom_Note.csproj.CoreCompileInputs.cache
+/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q383_Ransom_Note/obj/Debug/net5.0/Q383_Ransom_Note.dll
+/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q383_Ransom_Note/obj/Debug/net5.0/ref/Q383_Ransom_Note.dll
+/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q383_Ransom_Note/obj/Debug/net5.0/Q383_Ransom_Note.pdb

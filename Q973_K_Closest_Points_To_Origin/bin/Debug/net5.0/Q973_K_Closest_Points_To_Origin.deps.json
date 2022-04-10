@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Q973_K_Closest_Points_To_Origin/1.0.0": {
+        "runtime": {
+          "Q973_K_Closest_Points_To_Origin.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Q973_K_Closest_Points_To_Origin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

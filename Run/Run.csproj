@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Q973_K_Closest_Points_To_Origin\Q973_K_Closest_Points_To_Origin.csproj" />
+    <ProjectReference Include="..\Q383_Ransom_Note\Q383_Ransom_Note.csproj" />
+    <ProjectReference Include="..\Q986_Interval_List_Intersections\Q986_Interval_List_Intersections.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+</Project>
