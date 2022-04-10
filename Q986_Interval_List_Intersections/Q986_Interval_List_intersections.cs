@@ -12,8 +12,8 @@ namespace Q986_Interval_List_Intersections {
             int j = 0;
 
             while (i < A.Length && j < B.Length) {
-                int low = Math.Max(A[i][0], B[i][0]);
-                int high = Math.Min(A[i][1], B[i][1]);
+                int low = Math.Max(A[i][0], B[j][0]);
+                int high = Math.Min(A[i][1], B[j][1]);
 
                 if (low <= high) {
                     result.Add(new int[] { low, high });
