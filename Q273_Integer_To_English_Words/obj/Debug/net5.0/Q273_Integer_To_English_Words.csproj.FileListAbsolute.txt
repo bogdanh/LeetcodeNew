@@ -1,0 +1,12 @@
+/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q273_Integer_To_English_Words/bin/Debug/net5.0/Q273_Integer_To_English_Words.deps.json
+/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q273_Integer_To_English_Words/bin/Debug/net5.0/Q273_Integer_To_English_Words.dll
+/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q273_Integer_To_English_Words/bin/Debug/net5.0/ref/Q273_Integer_To_English_Words.dll
+/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q273_Integer_To_English_Words/bin/Debug/net5.0/Q273_Integer_To_English_Words.pdb
+/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q273_Integer_To_English_Words/obj/Debug/net5.0/Q273_Integer_To_English_Words.csproj.AssemblyReference.cache
+/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q273_Integer_To_English_Words/obj/Debug/net5.0/Q273_Integer_To_English_Words.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q273_Integer_To_English_Words/obj/Debug/net5.0/Q273_Integer_To_English_Words.AssemblyInfoInputs.cache
+/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q273_Integer_To_English_Words/obj/Debug/net5.0/Q273_Integer_To_English_Words.AssemblyInfo.cs
+/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q273_Integer_To_English_Words/obj/Debug/net5.0/Q273_Integer_To_English_Words.csproj.CoreCompileInputs.cache
+/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q273_Integer_To_English_Words/obj/Debug/net5.0/Q273_Integer_To_English_Words.dll
+/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q273_Integer_To_English_Words/obj/Debug/net5.0/ref/Q273_Integer_To_English_Words.dll
+/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q273_Integer_To_English_Words/obj/Debug/net5.0/Q273_Integer_To_English_Words.pdb

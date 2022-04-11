@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v5.0": {
       "Run/1.0.0": {
         "dependencies": {
+          "Q273_Integer_To_English_Words": "1.0.0",
           "Q316_Remove_Duplicate_Letters": "1.0.0",
           "Q383_Ransom_Note": "1.0.0",
           "Q973_K_Closest_Points_To_Origin": "1.0.0",
@@ -15,6 +16,11 @@
         },
         "runtime": {
           "Run.dll": {}
+        }
+      },
+      "Q273_Integer_To_English_Words/1.0.0": {
+        "runtime": {
+          "Q273_Integer_To_English_Words.dll": {}
         }
       },
       "Q316_Remove_Duplicate_Letters/1.0.0": {
@@ -41,6 +47,11 @@
   },
   "libraries": {
     "Run/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Q273_Integer_To_English_Words/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

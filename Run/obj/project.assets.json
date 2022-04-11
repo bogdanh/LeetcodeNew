@@ -2,6 +2,16 @@
   "version": 3,
   "targets": {
     "net5.0": {
+      "Q273_Integer_To_English_Words/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Q273_Integer_To_English_Words.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Q273_Integer_To_English_Words.dll": {}
+        }
+      },
       "Q316_Remove_Duplicate_Letters/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -45,6 +55,11 @@
     }
   },
   "libraries": {
+    "Q273_Integer_To_English_Words/1.0.0": {
+      "type": "project",
+      "path": "../Q273_Integer_To_English_Words/Q273_Integer_To_English_Words.csproj",
+      "msbuildProject": "../Q273_Integer_To_English_Words/Q273_Integer_To_English_Words.csproj"
+    },
     "Q316_Remove_Duplicate_Letters/1.0.0": {
       "type": "project",
       "path": "../Q316_Remove_Duplicate_Letters/Q316_Remove_Duplicate_Letters.csproj",
@@ -68,6 +83,7 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "Q273_Integer_To_English_Words >= 1.0.0",
       "Q316_Remove_Duplicate_Letters >= 1.0.0",
       "Q383_Ransom_Note >= 1.0.0",
       "Q973_K_Closest_Points_To_Origin >= 1.0.0",
@@ -99,6 +115,9 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
+            "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q273_Integer_To_English_Words/Q273_Integer_To_English_Words.csproj": {
+              "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q273_Integer_To_English_Words/Q273_Integer_To_English_Words.csproj"
+            },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q316_Remove_Duplicate_Letters/Q316_Remove_Duplicate_Letters.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q316_Remove_Duplicate_Letters/Q316_Remove_Duplicate_Letters.csproj"
             },

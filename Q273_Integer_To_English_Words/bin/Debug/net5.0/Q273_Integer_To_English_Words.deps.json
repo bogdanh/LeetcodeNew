@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Q273_Integer_To_English_Words/1.0.0": {
+        "runtime": {
+          "Q273_Integer_To_English_Words.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Q273_Integer_To_English_Words/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

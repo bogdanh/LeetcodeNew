@@ -4,6 +4,58 @@
     "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Run/Run.csproj": {}
   },
   "projects": {
+    "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q273_Integer_To_English_Words/Q273_Integer_To_English_Words.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q273_Integer_To_English_Words/Q273_Integer_To_English_Words.csproj",
+        "projectName": "Q273_Integer_To_English_Words",
+        "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q273_Integer_To_English_Words/Q273_Integer_To_English_Words.csproj",
+        "packagesPath": "/Users/Bogdan/.nuget/packages/",
+        "outputPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q273_Integer_To_English_Words/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Bogdan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.406/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q316_Remove_Duplicate_Letters/Q316_Remove_Duplicate_Letters.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -234,6 +286,9 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
+              "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q273_Integer_To_English_Words/Q273_Integer_To_English_Words.csproj": {
+                "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q273_Integer_To_English_Words/Q273_Integer_To_English_Words.csproj"
+              },
               "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q316_Remove_Duplicate_Letters/Q316_Remove_Duplicate_Letters.csproj": {
                 "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q316_Remove_Duplicate_Letters/Q316_Remove_Duplicate_Letters.csproj"
               },
