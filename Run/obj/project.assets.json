@@ -2,6 +2,16 @@
   "version": 3,
   "targets": {
     "net5.0": {
+      "Q316_Remove_Duplicate_Letters/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Q316_Remove_Duplicate_Letters.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Q316_Remove_Duplicate_Letters.dll": {}
+        }
+      },
       "Q383_Ransom_Note/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -35,6 +45,11 @@
     }
   },
   "libraries": {
+    "Q316_Remove_Duplicate_Letters/1.0.0": {
+      "type": "project",
+      "path": "../Q316_Remove_Duplicate_Letters/Q316_Remove_Duplicate_Letters.csproj",
+      "msbuildProject": "../Q316_Remove_Duplicate_Letters/Q316_Remove_Duplicate_Letters.csproj"
+    },
     "Q383_Ransom_Note/1.0.0": {
       "type": "project",
       "path": "../Q383_Ransom_Note/Q383_Ransom_Note.csproj",
@@ -53,6 +68,7 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "Q316_Remove_Duplicate_Letters >= 1.0.0",
       "Q383_Ransom_Note >= 1.0.0",
       "Q973_K_Closest_Points_To_Origin >= 1.0.0",
       "Q986_Interval_List_Intersections >= 1.0.0"
@@ -83,6 +99,9 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
+            "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q316_Remove_Duplicate_Letters/Q316_Remove_Duplicate_Letters.csproj": {
+              "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q316_Remove_Duplicate_Letters/Q316_Remove_Duplicate_Letters.csproj"
+            },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q383_Ransom_Note/Q383_Ransom_Note.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q383_Ransom_Note/Q383_Ransom_Note.csproj"
             },
