@@ -24,3 +24,5 @@
 /Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Run/bin/Debug/net5.0/Q316_Remove_Duplicate_Letters.pdb
 /Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Run/bin/Debug/net5.0/Q273_Integer_To_English_Words.dll
 /Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Run/bin/Debug/net5.0/Q273_Integer_To_English_Words.pdb
+/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Run/bin/Debug/net5.0/Q1249_Minimum_Remove_To_Make_Valid_Parentheses.dll
+/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Run/bin/Debug/net5.0/Q1249_Minimum_Remove_To_Make_Valid_Parentheses.pdb

@@ -2,6 +2,16 @@
   "version": 3,
   "targets": {
     "net5.0": {
+      "Q1249_Minimum_Remove_To_Make_Valid_Parentheses/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Q1249_Minimum_Remove_To_Make_Valid_Parentheses.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Q1249_Minimum_Remove_To_Make_Valid_Parentheses.dll": {}
+        }
+      },
       "Q273_Integer_To_English_Words/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -55,6 +65,11 @@
     }
   },
   "libraries": {
+    "Q1249_Minimum_Remove_To_Make_Valid_Parentheses/1.0.0": {
+      "type": "project",
+      "path": "../Q1249_Minimum_Remove_To_Make_Valid_Parentheses/Q1249_Minimum_Remove_To_Make_Valid_Parentheses.csproj",
+      "msbuildProject": "../Q1249_Minimum_Remove_To_Make_Valid_Parentheses/Q1249_Minimum_Remove_To_Make_Valid_Parentheses.csproj"
+    },
     "Q273_Integer_To_English_Words/1.0.0": {
       "type": "project",
       "path": "../Q273_Integer_To_English_Words/Q273_Integer_To_English_Words.csproj",
@@ -83,6 +98,7 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "Q1249_Minimum_Remove_To_Make_Valid_Parentheses >= 1.0.0",
       "Q273_Integer_To_English_Words >= 1.0.0",
       "Q316_Remove_Duplicate_Letters >= 1.0.0",
       "Q383_Ransom_Note >= 1.0.0",
@@ -115,6 +131,9 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
+            "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q1249_Minimum_Remove_To_Make_Valid_Parentheses/Q1249_Minimum_Remove_To_Make_Valid_Parentheses.csproj": {
+              "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q1249_Minimum_Remove_To_Make_Valid_Parentheses/Q1249_Minimum_Remove_To_Make_Valid_Parentheses.csproj"
+            },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q273_Integer_To_English_Words/Q273_Integer_To_English_Words.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q273_Integer_To_English_Words/Q273_Integer_To_English_Words.csproj"
             },

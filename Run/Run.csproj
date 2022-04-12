@@ -6,6 +6,7 @@
     <ProjectReference Include="..\Q986_Interval_List_Intersections\Q986_Interval_List_Intersections.csproj" />
     <ProjectReference Include="..\Q316_Remove_Duplicate_Letters\Q316_Remove_Duplicate_Letters.csproj" />
     <ProjectReference Include="..\Q273_Integer_To_English_Words\Q273_Integer_To_English_Words.csproj" />
+    <ProjectReference Include="..\Q1249_Minimum_Remove_To_Make_Valid_Parentheses\Q1249_Minimum_Remove_To_Make_Valid_Parentheses.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v5.0": {
       "Run/1.0.0": {
         "dependencies": {
+          "Q1249_Minimum_Remove_To_Make_Valid_Parentheses": "1.0.0",
           "Q273_Integer_To_English_Words": "1.0.0",
           "Q316_Remove_Duplicate_Letters": "1.0.0",
           "Q383_Ransom_Note": "1.0.0",
@@ -16,6 +17,11 @@
         },
         "runtime": {
           "Run.dll": {}
+        }
+      },
+      "Q1249_Minimum_Remove_To_Make_Valid_Parentheses/1.0.0": {
+        "runtime": {
+          "Q1249_Minimum_Remove_To_Make_Valid_Parentheses.dll": {}
         }
       },
       "Q273_Integer_To_English_Words/1.0.0": {
@@ -47,6 +53,11 @@
   },
   "libraries": {
     "Run/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Q1249_Minimum_Remove_To_Make_Valid_Parentheses/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
