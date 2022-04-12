@@ -14,7 +14,7 @@ namespace Q273_Integer_To_English_Words {
 
             Helper(num, ref result);
 
-            return result;
+            return result.Replace(" ", " ").Trim();
         }
 
         private static void Helper(int num, ref string result) {
