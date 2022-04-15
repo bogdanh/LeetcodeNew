@@ -1,6 +1,5 @@
 /Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q986_Interval_List_Intersections/bin/Debug/net5.0/Q986_Interval_List_Intersections.deps.json
 /Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q986_Interval_List_Intersections/bin/Debug/net5.0/Q986_Interval_List_Intersections.dll
-/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q986_Interval_List_Intersections/bin/Debug/net5.0/ref/Q986_Interval_List_Intersections.dll
 /Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q986_Interval_List_Intersections/bin/Debug/net5.0/Q986_Interval_List_Intersections.pdb
 /Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q986_Interval_List_Intersections/obj/Debug/net5.0/Q986_Interval_List_Intersections.csproj.AssemblyReference.cache
 /Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q986_Interval_List_Intersections/obj/Debug/net5.0/Q986_Interval_List_Intersections.GeneratedMSBuildEditorConfig.editorconfig
@@ -10,3 +9,4 @@
 /Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q986_Interval_List_Intersections/obj/Debug/net5.0/Q986_Interval_List_Intersections.dll
 /Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q986_Interval_List_Intersections/obj/Debug/net5.0/ref/Q986_Interval_List_Intersections.dll
 /Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q986_Interval_List_Intersections/obj/Debug/net5.0/Q986_Interval_List_Intersections.pdb
+/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q986_Interval_List_Intersections/obj/Debug/net5.0/refint/Q986_Interval_List_Intersections.dll

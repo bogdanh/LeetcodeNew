@@ -1,10 +1,10 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {
+    "net6.0": {
       "Q1249_Minimum_Remove_To_Make_Valid_Parentheses/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
+        "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
           "bin/placeholder/Q1249_Minimum_Remove_To_Make_Valid_Parentheses.dll": {}
         },
@@ -14,7 +14,7 @@
       },
       "Q273_Integer_To_English_Words/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
+        "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
           "bin/placeholder/Q273_Integer_To_English_Words.dll": {}
         },
@@ -24,7 +24,7 @@
       },
       "Q316_Remove_Duplicate_Letters/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
+        "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
           "bin/placeholder/Q316_Remove_Duplicate_Letters.dll": {}
         },
@@ -34,12 +34,22 @@
       },
       "Q383_Ransom_Note/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
+        "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
           "bin/placeholder/Q383_Ransom_Note.dll": {}
         },
         "runtime": {
           "bin/placeholder/Q383_Ransom_Note.dll": {}
+        }
+      },
+      "Q621_Task_Scheduler/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Q621_Task_Scheduler.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Q621_Task_Scheduler.dll": {}
         }
       },
       "Q973_K_Closest_Points_To_Origin/1.0.0": {
@@ -54,7 +64,7 @@
       },
       "Q986_Interval_List_Intersections/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
+        "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
           "bin/placeholder/Q986_Interval_List_Intersections.dll": {}
         },
@@ -85,6 +95,11 @@
       "path": "../Q383_Ransom_Note/Q383_Ransom_Note.csproj",
       "msbuildProject": "../Q383_Ransom_Note/Q383_Ransom_Note.csproj"
     },
+    "Q621_Task_Scheduler/1.0.0": {
+      "type": "project",
+      "path": "../Q621_Task_Scheduler/Q621_Task_Scheduler.csproj",
+      "msbuildProject": "../Q621_Task_Scheduler/Q621_Task_Scheduler.csproj"
+    },
     "Q973_K_Closest_Points_To_Origin/1.0.0": {
       "type": "project",
       "path": "../Q973_K_Closest_Points_To_Origin/Q973_K_Closest_Points_To_Origin.csproj",
@@ -97,11 +112,12 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net5.0": [
+    "net6.0": [
       "Q1249_Minimum_Remove_To_Make_Valid_Parentheses >= 1.0.0",
       "Q273_Integer_To_English_Words >= 1.0.0",
       "Q316_Remove_Duplicate_Letters >= 1.0.0",
       "Q383_Ransom_Note >= 1.0.0",
+      "Q621_Task_Scheduler >= 1.0.0",
       "Q973_K_Closest_Points_To_Origin >= 1.0.0",
       "Q986_Interval_List_Intersections >= 1.0.0"
     ]
@@ -122,14 +138,14 @@
         "/Users/Bogdan/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net5.0"
+        "net6.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "projectReferences": {
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q1249_Minimum_Remove_To_Make_Valid_Parentheses/Q1249_Minimum_Remove_To_Make_Valid_Parentheses.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q1249_Minimum_Remove_To_Make_Valid_Parentheses/Q1249_Minimum_Remove_To_Make_Valid_Parentheses.csproj"
@@ -142,6 +158,9 @@
             },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q383_Ransom_Note/Q383_Ransom_Note.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q383_Ransom_Note/Q383_Ransom_Note.csproj"
+            },
+            "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q621_Task_Scheduler/Q621_Task_Scheduler.csproj": {
+              "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q621_Task_Scheduler/Q621_Task_Scheduler.csproj"
             },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q973_K_Closest_Points_To_Origin/Q973_K_Closest_Points_To_Origin.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q973_K_Closest_Points_To_Origin/Q973_K_Closest_Points_To_Origin.csproj"
@@ -159,8 +178,8 @@
       }
     },
     "frameworks": {
-      "net5.0": {
-        "targetAlias": "net5.0",
+      "net6.0": {
+        "targetAlias": "net6.0",
         "imports": [
           "net461",
           "net462",
@@ -176,7 +195,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.406/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
       }
     }
   }

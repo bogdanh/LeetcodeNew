@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "gxyb2Tne5ALHyEmfsqhoxYZd0jdMq3K3IGf6SfWsFRRZI9C2WQkmYuzNbyVoxcZjhgxTzUp27DAoaWQd0Kx38Q==",
+  "dgSpecHash": "8kllIshtv4koBhREdrcLzcVnRDv+b5knS5q306W4AgNdJkBwFzJ+tWKcmnMxVDl/AzooXvpcnECUBjDfr8500Q==",
   "success": true,
   "projectFilePath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q1249_Minimum_Remove_To_Make_Valid_Parentheses/Q1249_Minimum_Remove_To_Make_Valid_Parentheses.csproj",
   "expectedPackageFiles": [],

@@ -26,7 +26,7 @@
             "WARNING16": "button at the bottom of this file.",
             "WARNING17": "*********************************************************************************",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/Run/bin/Debug/net5.0/Run.dll",
+            "program": "${workspaceFolder}/Run/bin/Debug/net6.0/Run.dll",
             "args": [],
             "cwd": "${workspaceFolder}",
             "console": "internalConsole",
