@@ -10,6 +10,7 @@ namespace Run {
             // Q973_K_Closest_Points_To_Origin.Q973_K_Closest_Points_To_Origin.Run();
             // Q986_Interval_List_Intersections.Q986_Interval_List_Intersections.Run();
             // Q1249_Minimum_Remove_To_Make_Valid_Parentheses.Q1249_Minimum_Remove_To_Make_Valid_Parentheses.Run();
+            Q1428_Leftmost_Column_With_Least_One.Q1428_Leftmost_Column_With_Least_One.Run();
         }
     }
 }

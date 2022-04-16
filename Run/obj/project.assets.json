@@ -12,6 +12,16 @@
           "bin/placeholder/Q1249_Minimum_Remove_To_Make_Valid_Parentheses.dll": {}
         }
       },
+      "Q1428_Leftmost_Column_With_Least_One/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Q1428_Leftmost_Column_With_Least_One.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Q1428_Leftmost_Column_With_Least_One.dll": {}
+        }
+      },
       "Q273_Integer_To_English_Words/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -80,6 +90,11 @@
       "path": "../Q1249_Minimum_Remove_To_Make_Valid_Parentheses/Q1249_Minimum_Remove_To_Make_Valid_Parentheses.csproj",
       "msbuildProject": "../Q1249_Minimum_Remove_To_Make_Valid_Parentheses/Q1249_Minimum_Remove_To_Make_Valid_Parentheses.csproj"
     },
+    "Q1428_Leftmost_Column_With_Least_One/1.0.0": {
+      "type": "project",
+      "path": "../Q1428_Leftmost_Column_With_Least_One/Q1428_Leftmost_Column_With_Least_One.csproj",
+      "msbuildProject": "../Q1428_Leftmost_Column_With_Least_One/Q1428_Leftmost_Column_With_Least_One.csproj"
+    },
     "Q273_Integer_To_English_Words/1.0.0": {
       "type": "project",
       "path": "../Q273_Integer_To_English_Words/Q273_Integer_To_English_Words.csproj",
@@ -114,6 +129,7 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "Q1249_Minimum_Remove_To_Make_Valid_Parentheses >= 1.0.0",
+      "Q1428_Leftmost_Column_With_Least_One >= 1.0.0",
       "Q273_Integer_To_English_Words >= 1.0.0",
       "Q316_Remove_Duplicate_Letters >= 1.0.0",
       "Q383_Ransom_Note >= 1.0.0",
@@ -149,6 +165,9 @@
           "projectReferences": {
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q1249_Minimum_Remove_To_Make_Valid_Parentheses/Q1249_Minimum_Remove_To_Make_Valid_Parentheses.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q1249_Minimum_Remove_To_Make_Valid_Parentheses/Q1249_Minimum_Remove_To_Make_Valid_Parentheses.csproj"
+            },
+            "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q1428_Leftmost_Column_With_Least_One/Q1428_Leftmost_Column_With_Least_One.csproj": {
+              "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q1428_Leftmost_Column_With_Least_One/Q1428_Leftmost_Column_With_Least_One.csproj"
             },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q273_Integer_To_English_Words/Q273_Integer_To_English_Words.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q273_Integer_To_English_Words/Q273_Integer_To_English_Words.csproj"
