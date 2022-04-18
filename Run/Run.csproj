@@ -9,6 +9,7 @@
     <ProjectReference Include="..\Q1249_Minimum_Remove_To_Make_Valid_Parentheses\Q1249_Minimum_Remove_To_Make_Valid_Parentheses.csproj" />
     <ProjectReference Include="..\Q621_Task_Scheduler\Q621_Task_Scheduler.csproj" />
     <ProjectReference Include="..\Q1428_Leftmost_Column_With_Least_One\Q1428_Leftmost_Column_With_Least_One.csproj" />
+    <ProjectReference Include="..\Q282_Expression_Add_Operators\Q282_Expression_Add_Operators.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

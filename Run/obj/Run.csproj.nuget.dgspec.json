@@ -160,6 +160,58 @@
         }
       }
     },
+    "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q282_Expression_Add_Operators/Q282_Expression_Add_Operators.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q282_Expression_Add_Operators/Q282_Expression_Add_Operators.csproj",
+        "projectName": "Q282_Expression_Add_Operators",
+        "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q282_Expression_Add_Operators/Q282_Expression_Add_Operators.csproj",
+        "packagesPath": "/Users/Bogdan/.nuget/packages/",
+        "outputPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q282_Expression_Add_Operators/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Bogdan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q316_Remove_Duplicate_Letters/Q316_Remove_Duplicate_Letters.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -450,6 +502,9 @@
               },
               "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q273_Integer_To_English_Words/Q273_Integer_To_English_Words.csproj": {
                 "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q273_Integer_To_English_Words/Q273_Integer_To_English_Words.csproj"
+              },
+              "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q282_Expression_Add_Operators/Q282_Expression_Add_Operators.csproj": {
+                "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q282_Expression_Add_Operators/Q282_Expression_Add_Operators.csproj"
               },
               "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q316_Remove_Duplicate_Letters/Q316_Remove_Duplicate_Letters.csproj": {
                 "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q316_Remove_Duplicate_Letters/Q316_Remove_Duplicate_Letters.csproj"

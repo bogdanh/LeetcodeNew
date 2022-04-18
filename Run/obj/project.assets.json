@@ -32,6 +32,16 @@
           "bin/placeholder/Q273_Integer_To_English_Words.dll": {}
         }
       },
+      "Q282_Expression_Add_Operators/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Q282_Expression_Add_Operators.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Q282_Expression_Add_Operators.dll": {}
+        }
+      },
       "Q316_Remove_Duplicate_Letters/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -100,6 +110,11 @@
       "path": "../Q273_Integer_To_English_Words/Q273_Integer_To_English_Words.csproj",
       "msbuildProject": "../Q273_Integer_To_English_Words/Q273_Integer_To_English_Words.csproj"
     },
+    "Q282_Expression_Add_Operators/1.0.0": {
+      "type": "project",
+      "path": "../Q282_Expression_Add_Operators/Q282_Expression_Add_Operators.csproj",
+      "msbuildProject": "../Q282_Expression_Add_Operators/Q282_Expression_Add_Operators.csproj"
+    },
     "Q316_Remove_Duplicate_Letters/1.0.0": {
       "type": "project",
       "path": "../Q316_Remove_Duplicate_Letters/Q316_Remove_Duplicate_Letters.csproj",
@@ -131,6 +146,7 @@
       "Q1249_Minimum_Remove_To_Make_Valid_Parentheses >= 1.0.0",
       "Q1428_Leftmost_Column_With_Least_One >= 1.0.0",
       "Q273_Integer_To_English_Words >= 1.0.0",
+      "Q282_Expression_Add_Operators >= 1.0.0",
       "Q316_Remove_Duplicate_Letters >= 1.0.0",
       "Q383_Ransom_Note >= 1.0.0",
       "Q621_Task_Scheduler >= 1.0.0",
@@ -171,6 +187,9 @@
             },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q273_Integer_To_English_Words/Q273_Integer_To_English_Words.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q273_Integer_To_English_Words/Q273_Integer_To_English_Words.csproj"
+            },
+            "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q282_Expression_Add_Operators/Q282_Expression_Add_Operators.csproj": {
+              "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q282_Expression_Add_Operators/Q282_Expression_Add_Operators.csproj"
             },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q316_Remove_Duplicate_Letters/Q316_Remove_Duplicate_Letters.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q316_Remove_Duplicate_Letters/Q316_Remove_Duplicate_Letters.csproj"
