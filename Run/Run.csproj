@@ -10,6 +10,8 @@
     <ProjectReference Include="..\Q621_Task_Scheduler\Q621_Task_Scheduler.csproj" />
     <ProjectReference Include="..\Q1428_Leftmost_Column_With_Least_One\Q1428_Leftmost_Column_With_Least_One.csproj" />
     <ProjectReference Include="..\Q282_Expression_Add_Operators\Q282_Expression_Add_Operators.csproj" />
+    <ProjectReference Include="..\Q297_Serialize_Deserialize_Binary_Tree\Q297_Serialize_Deserialize_Binary_Tree.csproj" />
+    <ProjectReference Include="..\Library\Library.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
