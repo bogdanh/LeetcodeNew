@@ -35,14 +35,12 @@ namespace Q297_Serialize_Deserialize_Binary_Tree {
             while (q.Count > 0 && i < nodes.Length) {
                 root = q.Dequeue();
                 if (nodes[i] != "null") {
-                    TreeNode left = new TreeNode(int.Parse(nodes[i]));
-                    root.Left = left;
+                    root.Left = new TreeNode(int.Parse(nodes[i]));
                     q.Enqueue(root.Left);
                 }
                 i++;
                 if (nodes[i] != "null") {
-                    TreeNode right = new TreeNode(int.Parse(nodes[i]));
-                    root.Right = right;
+                    root.Right = new TreeNode(int.Parse(nodes[i]));
                     q.Enqueue(root.Right);
                 }
                 i++;
@@ -50,6 +48,46 @@ namespace Q297_Serialize_Deserialize_Binary_Tree {
 
             return root;
         }
+
+        #region Recursive
+        private static string SerializeRecursive(TreeNode root) {
+            StringBuilder sb = new StringBuilder();
+
+            SerializeHelper(root, sb);
+            return sb.ToString();
+        }
+
+        private static void SerializeHelper(TreeNode? root, StringBuilder sb) {
+            if (root == null) {
+                sb.Append("null,");
+                return;
+            }
+
+            sb.Append($"{root.Val},");
+            SerializeHelper(root.Left, sb);
+            SerializeHelper(root.Right, sb);
+        }
+
+        private static TreeNode? DeserializeRecursive(string data) {
+            Queue<string> q = new Queue<string>(data.Split(","));
+            return DeserializeHelper(q);
+        }
+
+        private static TreeNode? DeserializeHelper(Queue<string> q) {
+            string node = q.Dequeue();
+
+            if (node == "null") {
+                return null;
+            }
+
+            TreeNode root = new TreeNode(int.Parse(node));
+            root.Left = DeserializeHelper(q);
+            root.Right = DeserializeHelper(q);
+
+            return root;
+        }
+
+        #endregion Recursive
 
         public static void Run() {
             TreeNode root = new TreeNode(1);
