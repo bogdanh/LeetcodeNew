@@ -12,6 +12,7 @@
     <ProjectReference Include="..\Q282_Expression_Add_Operators\Q282_Expression_Add_Operators.csproj" />
     <ProjectReference Include="..\Q297_Serialize_Deserialize_Binary_Tree\Q297_Serialize_Deserialize_Binary_Tree.csproj" />
     <ProjectReference Include="..\Library\Library.csproj" />
+    <ProjectReference Include="..\Q1792_Buildings_With_Ocean_View\Q1792_Buildings_With_Ocean_View.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
