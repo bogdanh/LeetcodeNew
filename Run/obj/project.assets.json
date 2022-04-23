@@ -45,6 +45,19 @@
           "bin/placeholder/Q1792_Buildings_With_Ocean_View.dll": {}
         }
       },
+      "Q269_Alien_Dictionary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Library": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Q269_Alien_Dictionary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Q269_Alien_Dictionary.dll": {}
+        }
+      },
       "Q273_Integer_To_English_Words/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -151,6 +164,11 @@
       "path": "../Q1792_Buildings_With_Ocean_View/Q1792_Buildings_With_Ocean_View.csproj",
       "msbuildProject": "../Q1792_Buildings_With_Ocean_View/Q1792_Buildings_With_Ocean_View.csproj"
     },
+    "Q269_Alien_Dictionary/1.0.0": {
+      "type": "project",
+      "path": "../Q269_Alien_Dictionary/Q269_Alien_Dictionary.csproj",
+      "msbuildProject": "../Q269_Alien_Dictionary/Q269_Alien_Dictionary.csproj"
+    },
     "Q273_Integer_To_English_Words/1.0.0": {
       "type": "project",
       "path": "../Q273_Integer_To_English_Words/Q273_Integer_To_English_Words.csproj",
@@ -198,6 +216,7 @@
       "Q1249_Minimum_Remove_To_Make_Valid_Parentheses >= 1.0.0",
       "Q1428_Leftmost_Column_With_Least_One >= 1.0.0",
       "Q1792_Buildings_With_Ocean_View >= 1.0.0",
+      "Q269_Alien_Dictionary >= 1.0.0",
       "Q273_Integer_To_English_Words >= 1.0.0",
       "Q282_Expression_Add_Operators >= 1.0.0",
       "Q297_Serialize_Deserialize_Binary_Tree >= 1.0.0",
@@ -244,6 +263,9 @@
             },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q1792_Buildings_With_Ocean_View/Q1792_Buildings_With_Ocean_View.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q1792_Buildings_With_Ocean_View/Q1792_Buildings_With_Ocean_View.csproj"
+            },
+            "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q269_Alien_Dictionary/Q269_Alien_Dictionary.csproj": {
+              "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q269_Alien_Dictionary/Q269_Alien_Dictionary.csproj"
             },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q273_Integer_To_English_Words/Q273_Integer_To_English_Words.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q273_Integer_To_English_Words/Q273_Integer_To_English_Words.csproj"

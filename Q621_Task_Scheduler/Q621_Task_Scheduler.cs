@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using Library;
 
 namespace Q621_Task_Scheduler {
     public class Q621_Task_Scheduler {
@@ -49,25 +50,11 @@ namespace Q621_Task_Scheduler {
 
         public static void Run() {
             char[] tasks = new char[] { 'A', 'A', 'A', 'A', 'A', 'A', 'B', 'C', 'D', 'E', 'F', 'G' };
-            PrintCharArray(tasks);
+            AssortedMethods.PrintCharArray(tasks);
             int n = 2;
             Console.WriteLine($"n = {n}");
             int result = Solution(tasks, n);
             Console.WriteLine(result);
-        }
-
-        private static void PrintCharArray(char[] chars) {
-            StringBuilder sb = new StringBuilder();
-            sb.Append("[");
-
-            foreach (char c in chars) {
-                sb.Append($"{c}, ");
-            }
-
-            sb.Length = sb.Length - 2;
-
-            sb.Append("]");
-            Console.WriteLine(sb.ToString());
         }
     }
 

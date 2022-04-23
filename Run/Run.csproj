@@ -13,6 +13,7 @@
     <ProjectReference Include="..\Q297_Serialize_Deserialize_Binary_Tree\Q297_Serialize_Deserialize_Binary_Tree.csproj" />
     <ProjectReference Include="..\Library\Library.csproj" />
     <ProjectReference Include="..\Q1792_Buildings_With_Ocean_View\Q1792_Buildings_With_Ocean_View.csproj" />
+    <ProjectReference Include="..\Q269_Alien_Dictionary\Q269_Alien_Dictionary.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
