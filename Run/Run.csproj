@@ -14,6 +14,7 @@
     <ProjectReference Include="..\Library\Library.csproj" />
     <ProjectReference Include="..\Q1792_Buildings_With_Ocean_View\Q1792_Buildings_With_Ocean_View.csproj" />
     <ProjectReference Include="..\Q269_Alien_Dictionary\Q269_Alien_Dictionary.csproj" />
+    <ProjectReference Include="..\Q215_Kth_Largest_Element\Q215_Kth_Largest_Element.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

@@ -45,6 +45,19 @@
           "bin/placeholder/Q1792_Buildings_With_Ocean_View.dll": {}
         }
       },
+      "Q215_Kth_Largest_Element/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Library": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Q215_Kth_Largest_Element.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Q215_Kth_Largest_Element.dll": {}
+        }
+      },
       "Q269_Alien_Dictionary/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -114,6 +127,9 @@
       "Q621_Task_Scheduler/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Library": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Q621_Task_Scheduler.dll": {}
         },
@@ -163,6 +179,11 @@
       "type": "project",
       "path": "../Q1792_Buildings_With_Ocean_View/Q1792_Buildings_With_Ocean_View.csproj",
       "msbuildProject": "../Q1792_Buildings_With_Ocean_View/Q1792_Buildings_With_Ocean_View.csproj"
+    },
+    "Q215_Kth_Largest_Element/1.0.0": {
+      "type": "project",
+      "path": "../Q215_Kth_Largest_Element/Q215_Kth_Largest_Element.csproj",
+      "msbuildProject": "../Q215_Kth_Largest_Element/Q215_Kth_Largest_Element.csproj"
     },
     "Q269_Alien_Dictionary/1.0.0": {
       "type": "project",
@@ -216,6 +237,7 @@
       "Q1249_Minimum_Remove_To_Make_Valid_Parentheses >= 1.0.0",
       "Q1428_Leftmost_Column_With_Least_One >= 1.0.0",
       "Q1792_Buildings_With_Ocean_View >= 1.0.0",
+      "Q215_Kth_Largest_Element >= 1.0.0",
       "Q269_Alien_Dictionary >= 1.0.0",
       "Q273_Integer_To_English_Words >= 1.0.0",
       "Q282_Expression_Add_Operators >= 1.0.0",
@@ -263,6 +285,9 @@
             },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q1792_Buildings_With_Ocean_View/Q1792_Buildings_With_Ocean_View.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q1792_Buildings_With_Ocean_View/Q1792_Buildings_With_Ocean_View.csproj"
+            },
+            "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q215_Kth_Largest_Element/Q215_Kth_Largest_Element.csproj": {
+              "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q215_Kth_Largest_Element/Q215_Kth_Largest_Element.csproj"
             },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q269_Alien_Dictionary/Q269_Alien_Dictionary.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q269_Alien_Dictionary/Q269_Alien_Dictionary.csproj"
