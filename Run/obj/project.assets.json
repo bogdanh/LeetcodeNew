@@ -32,6 +32,19 @@
           "bin/placeholder/Q1428_Leftmost_Column_With_Least_One.dll": {}
         }
       },
+      "Q173_Binary_Search_Tree_Iterator/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Library": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Q173_Binary_Search_Tree_Iterator.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Q173_Binary_Search_Tree_Iterator.dll": {}
+        }
+      },
       "Q1792_Buildings_With_Ocean_View/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -188,6 +201,11 @@
       "path": "../Q1428_Leftmost_Column_With_Least_One/Q1428_Leftmost_Column_With_Least_One.csproj",
       "msbuildProject": "../Q1428_Leftmost_Column_With_Least_One/Q1428_Leftmost_Column_With_Least_One.csproj"
     },
+    "Q173_Binary_Search_Tree_Iterator/1.0.0": {
+      "type": "project",
+      "path": "../Q173_Binary_Search_Tree_Iterator/Q173_Binary_Search_Tree_Iterator.csproj",
+      "msbuildProject": "../Q173_Binary_Search_Tree_Iterator/Q173_Binary_Search_Tree_Iterator.csproj"
+    },
     "Q1792_Buildings_With_Ocean_View/1.0.0": {
       "type": "project",
       "path": "../Q1792_Buildings_With_Ocean_View/Q1792_Buildings_With_Ocean_View.csproj",
@@ -254,6 +272,7 @@
       "Library >= 1.0.0",
       "Q1249_Minimum_Remove_To_Make_Valid_Parentheses >= 1.0.0",
       "Q1428_Leftmost_Column_With_Least_One >= 1.0.0",
+      "Q173_Binary_Search_Tree_Iterator >= 1.0.0",
       "Q1792_Buildings_With_Ocean_View >= 1.0.0",
       "Q215_Kth_Largest_Element >= 1.0.0",
       "Q269_Alien_Dictionary >= 1.0.0",
@@ -301,6 +320,9 @@
             },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q1428_Leftmost_Column_With_Least_One/Q1428_Leftmost_Column_With_Least_One.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q1428_Leftmost_Column_With_Least_One/Q1428_Leftmost_Column_With_Least_One.csproj"
+            },
+            "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q173_Binary_Search_Tree_Iterator/Q173_Binary_Search_Tree_Iterator.csproj": {
+              "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q173_Binary_Search_Tree_Iterator/Q173_Binary_Search_Tree_Iterator.csproj"
             },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q1792_Buildings_With_Ocean_View/Q1792_Buildings_With_Ocean_View.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q1792_Buildings_With_Ocean_View/Q1792_Buildings_With_Ocean_View.csproj"

@@ -16,6 +16,7 @@
     <ProjectReference Include="..\Q269_Alien_Dictionary\Q269_Alien_Dictionary.csproj" />
     <ProjectReference Include="..\Q215_Kth_Largest_Element\Q215_Kth_Largest_Element.csproj" />
     <ProjectReference Include="..\Q689_Maximum_Sum_of_3_Non-Overlapping_Subarrays\Q689_Maximum_Sum_of_3_Non-Overlapping_Subarrays.csproj" />
+    <ProjectReference Include="..\Q173_Binary_Search_Tree_Iterator\Q173_Binary_Search_Tree_Iterator.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

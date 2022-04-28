@@ -160,6 +160,62 @@
         }
       }
     },
+    "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q173_Binary_Search_Tree_Iterator/Q173_Binary_Search_Tree_Iterator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q173_Binary_Search_Tree_Iterator/Q173_Binary_Search_Tree_Iterator.csproj",
+        "projectName": "Q173_Binary_Search_Tree_Iterator",
+        "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q173_Binary_Search_Tree_Iterator/Q173_Binary_Search_Tree_Iterator.csproj",
+        "packagesPath": "/Users/Bogdan/.nuget/packages/",
+        "outputPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q173_Binary_Search_Tree_Iterator/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Bogdan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Library/Library.csproj": {
+                "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Library/Library.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q1792_Buildings_With_Ocean_View/Q1792_Buildings_With_Ocean_View.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -838,6 +894,9 @@
               },
               "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q1428_Leftmost_Column_With_Least_One/Q1428_Leftmost_Column_With_Least_One.csproj": {
                 "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q1428_Leftmost_Column_With_Least_One/Q1428_Leftmost_Column_With_Least_One.csproj"
+              },
+              "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q173_Binary_Search_Tree_Iterator/Q173_Binary_Search_Tree_Iterator.csproj": {
+                "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q173_Binary_Search_Tree_Iterator/Q173_Binary_Search_Tree_Iterator.csproj"
               },
               "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q1792_Buildings_With_Ocean_View/Q1792_Buildings_With_Ocean_View.csproj": {
                 "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q1792_Buildings_With_Ocean_View/Q1792_Buildings_With_Ocean_View.csproj"
