@@ -1,7 +1,7 @@
 ﻿using Library;
 
 namespace Q1650_Lowest_Common_Ancestor_of_a_Binary_Tree_III {
-
+#nullable disable
     public class Q1650_Lowest_Common_Ancestor_of_a_Binary_Tree_III {
 
         public static void Run() {
@@ -64,13 +64,13 @@ namespace Q1650_Lowest_Common_Ancestor_of_a_Binary_Tree_III {
             TreeNode b = q;
 
             while (a != b) {
-                a = a == null ? q : a.Parent;
-                b = b == null ? p : b.Parent;
+                a = a == null ? q : a?.Parent;
+                b = b == null ? p : b?.Parent;
             }
             return a;
         }
         
-        private static int CountDepthOf(TreeNode? node) {
+        private static int CountDepthOf(TreeNode node) {
             int count = 0;
 
             while (node != null) {
@@ -81,4 +81,5 @@ namespace Q1650_Lowest_Common_Ancestor_of_a_Binary_Tree_III {
             return count;
         }
     }
+#nullable enable
 }
