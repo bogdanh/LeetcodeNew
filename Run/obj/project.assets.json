@@ -150,6 +150,19 @@
           "bin/placeholder/Q383_Ransom_Note.dll": {}
         }
       },
+      "Q528_Random_Pick_with_Weight/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Library": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Q528_Random_Pick_with_Weight.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Q528_Random_Pick_with_Weight.dll": {}
+        }
+      },
       "Q621_Task_Scheduler/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -277,6 +290,11 @@
       "path": "../Q383_Ransom_Note/Q383_Ransom_Note.csproj",
       "msbuildProject": "../Q383_Ransom_Note/Q383_Ransom_Note.csproj"
     },
+    "Q528_Random_Pick_with_Weight/1.0.0": {
+      "type": "project",
+      "path": "../Q528_Random_Pick_with_Weight/Q528_Random_Pick_with_Weight.csproj",
+      "msbuildProject": "../Q528_Random_Pick_with_Weight/Q528_Random_Pick_with_Weight.csproj"
+    },
     "Q621_Task_Scheduler/1.0.0": {
       "type": "project",
       "path": "../Q621_Task_Scheduler/Q621_Task_Scheduler.csproj",
@@ -318,6 +336,7 @@
       "Q297_Serialize_Deserialize_Binary_Tree >= 1.0.0",
       "Q316_Remove_Duplicate_Letters >= 1.0.0",
       "Q383_Ransom_Note >= 1.0.0",
+      "Q528_Random_Pick_with_Weight >= 1.0.0",
       "Q621_Task_Scheduler >= 1.0.0",
       "Q65_Valid_Number >= 1.0.0",
       "Q689_Maximum_Sum_of_3_Non-Overlapping_Subarrays >= 1.0.0",
@@ -388,6 +407,9 @@
             },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q383_Ransom_Note/Q383_Ransom_Note.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q383_Ransom_Note/Q383_Ransom_Note.csproj"
+            },
+            "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q528_Random_Pick_with_Weight/Q528_Random_Pick_with_Weight.csproj": {
+              "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q528_Random_Pick_with_Weight/Q528_Random_Pick_with_Weight.csproj"
             },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q621_Task_Scheduler/Q621_Task_Scheduler.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q621_Task_Scheduler/Q621_Task_Scheduler.csproj"
