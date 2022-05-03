@@ -18,6 +18,18 @@ namespace Library {
             Console.WriteLine(sb.ToString());
         }
 
+        public static void PrintInt2DArray(int[][] arr) {
+            StringBuilder sb = new StringBuilder();
+
+            foreach (int[] a in arr) {
+                sb.Append("[");
+                sb.Append(string.Join(", ", a));
+                sb.AppendLine("]");
+            }
+            
+            Console.WriteLine(sb.ToString());
+        }
+        
         public static void PrintStringArray(string[] strings) {
             StringBuilder sb = new StringBuilder();
             sb.Append("[");

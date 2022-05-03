@@ -3,6 +3,7 @@
 namespace Run {
     class Program {
         static void Main(string[] args) {
+            Q56_Merge_Intervals.Q56_Merge_Intervals.Run();
             // Q65_Valid_Number.Q65_Valid_Number.Run();
             // Q173_Binary_Search_Tree_Iterator.Q173_Binary_Search_Tree_Iterator.Run();
             // Q215_Kth_Largest_Element.Q215_Kth_Largest_Element.Run();
@@ -12,7 +13,7 @@ namespace Run {
             // Q297_Serialize_Deserialize_Binary_Tree.Q297_Serialize_Deserialize_Binary_Tree.Run();
             // Q316_Remove_Duplicate_Letters.Q316_Remove_Duplocate_Letters.Run();
             // Q383_Ransom_Note.Ransom_Note.Run();
-            Q528_Random_Pick_with_Weight.Q528_Random_Pick_with_Weight.Run();
+            // Q528_Random_Pick_with_Weight.Q528_Random_Pick_with_Weight.Run();
             // Q621_Task_Scheduler.Q621_Task_Scheduler.Run();
             // Q689_Maximum_Sum_of_3_Non_Overlapping_Subarrays.Q689_Maximum_Sum_of_3_Non_Overlapping_Subarrays.Run();
             // Q973_K_Closest_Points_To_Origin.Q973_K_Closest_Points_To_Origin.Run();
