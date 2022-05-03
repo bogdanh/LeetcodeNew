@@ -5,10 +5,10 @@ namespace Library {
     [DebuggerDisplay("{Val}")]
     public class TreeNode {
         public int Val { get; set; }
-        public TreeNode? Left { get; set; }
-        public TreeNode? Right { get; set; }
-        
-        public TreeNode? Parent{ get; set; }
+        public TreeNode? Left { get; set; } = null;
+        public TreeNode? Right { get; set; } = null;
+
+        public TreeNode? Parent { get; set; } = null;
 
         public TreeNode(int val) {
             Val = val;

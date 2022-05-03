@@ -1,7 +1,6 @@
 ﻿using Library;
 
 namespace Q1650_Lowest_Common_Ancestor_of_a_Binary_Tree_III {
-#nullable disable
     public class Q1650_Lowest_Common_Ancestor_of_a_Binary_Tree_III {
 
         public static void Run() {
@@ -27,13 +26,13 @@ namespace Q1650_Lowest_Common_Ancestor_of_a_Binary_Tree_III {
             TreeNode p = root.Left;
             TreeNode q = root.Right.Right;
 
-            TreeNode result = Solution(p, q);
-            Console.WriteLine($"LCA for {p.Val} & {q.Val} = {result.Val}");
+            TreeNode? result = Solution(p, q);
+            Console.WriteLine($"LCA for {p.Val} & {q.Val} = {result?.Val}");
             result = SolutionSimplified(p, q);
-            Console.WriteLine($"LCA for {p.Val} & {q.Val} = {result.Val}");
+            Console.WriteLine($"LCA for {p.Val} & {q.Val} = {result?.Val}");
         }
 
-        private static TreeNode Solution(TreeNode p, TreeNode q) {
+        private static TreeNode? Solution(TreeNode? p, TreeNode? q) {
             int pCount = CountDepthOf(p);
             int qCount = CountDepthOf(q);
 
@@ -41,27 +40,27 @@ namespace Q1650_Lowest_Common_Ancestor_of_a_Binary_Tree_III {
             
             if (pCount > qCount) {
                 while (diff > 0) {
-                    p = p.Parent;
+                    p = p?.Parent;
                     diff--;
                 }
             } else {
                 while (diff > 0) {
-                    q = q.Parent;
+                    q = q?.Parent;
                     diff--;
                 }
             }
             
             while (p != q) {
-                p = p.Parent;
-                q = q.Parent;
+                p = p?.Parent;
+                q = q?.Parent;
             }
 
             return p;
         }
         
-        private static TreeNode SolutionSimplified(TreeNode p, TreeNode q) {
-            TreeNode a = p;
-            TreeNode b = q;
+        private static TreeNode? SolutionSimplified(TreeNode? p, TreeNode? q) {
+            TreeNode? a = p;
+            TreeNode? b = q;
 
             while (a != b) {
                 a = a == null ? q : a?.Parent;
@@ -70,7 +69,7 @@ namespace Q1650_Lowest_Common_Ancestor_of_a_Binary_Tree_III {
             return a;
         }
         
-        private static int CountDepthOf(TreeNode node) {
+        private static int CountDepthOf(TreeNode? node) {
             int count = 0;
 
             while (node != null) {
@@ -81,5 +80,5 @@ namespace Q1650_Lowest_Common_Ancestor_of_a_Binary_Tree_III {
             return count;
         }
     }
-#nullable enable
+
 }
