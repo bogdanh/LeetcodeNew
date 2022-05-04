@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q1650_Lowest_Common_Ancesto
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q1792_Buildings_With_Ocean_View", "Q1792_Buildings_With_Ocean_View\Q1792_Buildings_With_Ocean_View.csproj", "{C24451DD-2C6A-4C12-A794-B6F4FD026B0C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q523_Continuous_Subarray_Sum", "Q523_Continuous_Subarray_Sum\Q523_Continuous_Subarray_Sum.csproj", "{76B7CAED-FAAA-495D-B12E-28C7F2BDAA85}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -310,5 +312,17 @@ Global
 		{C24451DD-2C6A-4C12-A794-B6F4FD026B0C}.Release|x64.Build.0 = Release|Any CPU
 		{C24451DD-2C6A-4C12-A794-B6F4FD026B0C}.Release|x86.ActiveCfg = Release|Any CPU
 		{C24451DD-2C6A-4C12-A794-B6F4FD026B0C}.Release|x86.Build.0 = Release|Any CPU
+		{76B7CAED-FAAA-495D-B12E-28C7F2BDAA85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76B7CAED-FAAA-495D-B12E-28C7F2BDAA85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76B7CAED-FAAA-495D-B12E-28C7F2BDAA85}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{76B7CAED-FAAA-495D-B12E-28C7F2BDAA85}.Debug|x64.Build.0 = Debug|Any CPU
+		{76B7CAED-FAAA-495D-B12E-28C7F2BDAA85}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{76B7CAED-FAAA-495D-B12E-28C7F2BDAA85}.Debug|x86.Build.0 = Debug|Any CPU
+		{76B7CAED-FAAA-495D-B12E-28C7F2BDAA85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76B7CAED-FAAA-495D-B12E-28C7F2BDAA85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76B7CAED-FAAA-495D-B12E-28C7F2BDAA85}.Release|x64.ActiveCfg = Release|Any CPU
+		{76B7CAED-FAAA-495D-B12E-28C7F2BDAA85}.Release|x64.Build.0 = Release|Any CPU
+		{76B7CAED-FAAA-495D-B12E-28C7F2BDAA85}.Release|x86.ActiveCfg = Release|Any CPU
+		{76B7CAED-FAAA-495D-B12E-28C7F2BDAA85}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
