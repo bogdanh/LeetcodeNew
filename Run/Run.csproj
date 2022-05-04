@@ -21,6 +21,7 @@
     <ProjectReference Include="..\Q1650_Lowest_Common_Ancestor_of_a_Binary_Tree_III\Q1650_Lowest_Common_Ancestor_of_a_Binary_Tree_III.csproj" />
     <ProjectReference Include="..\Q528_Random_Pick_with_Weight\Q528_Random_Pick_with_Weight.csproj" />
     <ProjectReference Include="..\Q56_Merge_Intervals\Q56_Merge_Intervals.csproj" />
+    <ProjectReference Include="..\Q236_Lowest_Common_Ancestor_of_a_Binary_Tree\Q236_Lowest_Common_Ancestor_of_a_Binary_Tree.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

@@ -84,6 +84,19 @@
           "bin/placeholder/Q215_Kth_Largest_Element.dll": {}
         }
       },
+      "Q236_Lowest_Common_Ancestor_of_a_Binary_Tree/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Library": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Q236_Lowest_Common_Ancestor_of_a_Binary_Tree.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Q236_Lowest_Common_Ancestor_of_a_Binary_Tree.dll": {}
+        }
+      },
       "Q269_Alien_Dictionary/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -273,6 +286,11 @@
       "path": "../Q215_Kth_Largest_Element/Q215_Kth_Largest_Element.csproj",
       "msbuildProject": "../Q215_Kth_Largest_Element/Q215_Kth_Largest_Element.csproj"
     },
+    "Q236_Lowest_Common_Ancestor_of_a_Binary_Tree/1.0.0": {
+      "type": "project",
+      "path": "../Q236_Lowest_Common_Ancestor_of_a_Binary_Tree/Q236_Lowest_Common_Ancestor_of_a_Binary_Tree.csproj",
+      "msbuildProject": "../Q236_Lowest_Common_Ancestor_of_a_Binary_Tree/Q236_Lowest_Common_Ancestor_of_a_Binary_Tree.csproj"
+    },
     "Q269_Alien_Dictionary/1.0.0": {
       "type": "project",
       "path": "../Q269_Alien_Dictionary/Q269_Alien_Dictionary.csproj",
@@ -348,6 +366,7 @@
       "Q173_Binary_Search_Tree_Iterator >= 1.0.0",
       "Q1792_Buildings_With_Ocean_View >= 1.0.0",
       "Q215_Kth_Largest_Element >= 1.0.0",
+      "Q236_Lowest_Common_Ancestor_of_a_Binary_Tree >= 1.0.0",
       "Q269_Alien_Dictionary >= 1.0.0",
       "Q273_Integer_To_English_Words >= 1.0.0",
       "Q282_Expression_Add_Operators >= 1.0.0",
@@ -408,6 +427,9 @@
             },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q215_Kth_Largest_Element/Q215_Kth_Largest_Element.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q215_Kth_Largest_Element/Q215_Kth_Largest_Element.csproj"
+            },
+            "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q236_Lowest_Common_Ancestor_of_a_Binary_Tree/Q236_Lowest_Common_Ancestor_of_a_Binary_Tree.csproj": {
+              "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q236_Lowest_Common_Ancestor_of_a_Binary_Tree/Q236_Lowest_Common_Ancestor_of_a_Binary_Tree.csproj"
             },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q269_Alien_Dictionary/Q269_Alien_Dictionary.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q269_Alien_Dictionary/Q269_Alien_Dictionary.csproj"
