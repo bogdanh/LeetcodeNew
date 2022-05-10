@@ -24,6 +24,7 @@
     <ProjectReference Include="..\Q236_Lowest_Common_Ancestor_of_a_Binary_Tree\Q236_Lowest_Common_Ancestor_of_a_Binary_Tree.csproj" />
     <ProjectReference Include="..\Q523_Continuous_Subarray_Sum\Q523_Continuous_Subarray_Sum.csproj" />
     <ProjectReference Include="..\Q199_Binary_Tree_Right_Side_View\Q199_Binary_Tree_Right_Side_View.csproj" />
+    <ProjectReference Include="..\Q10_Regular_Expression_Matching\Q10_Regular_Expression_Matching.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

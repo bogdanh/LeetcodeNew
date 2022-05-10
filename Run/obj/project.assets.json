@@ -12,6 +12,16 @@
           "bin/placeholder/Library.dll": {}
         }
       },
+      "Q10_Regular_Expression_Matching/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Q10_Regular_Expression_Matching.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Q10_Regular_Expression_Matching.dll": {}
+        }
+      },
       "Q1249_Minimum_Remove_To_Make_Valid_Parentheses/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -282,6 +292,11 @@
       "path": "../Library/Library.csproj",
       "msbuildProject": "../Library/Library.csproj"
     },
+    "Q10_Regular_Expression_Matching/1.0.0": {
+      "type": "project",
+      "path": "../Q10_Regular_Expression_Matching/Q10_Regular_Expression_Matching.csproj",
+      "msbuildProject": "../Q10_Regular_Expression_Matching/Q10_Regular_Expression_Matching.csproj"
+    },
     "Q1249_Minimum_Remove_To_Make_Valid_Parentheses/1.0.0": {
       "type": "project",
       "path": "../Q1249_Minimum_Remove_To_Make_Valid_Parentheses/Q1249_Minimum_Remove_To_Make_Valid_Parentheses.csproj",
@@ -396,6 +411,7 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "Library >= 1.0.0",
+      "Q10_Regular_Expression_Matching >= 1.0.0",
       "Q1249_Minimum_Remove_To_Make_Valid_Parentheses >= 1.0.0",
       "Q1428_Leftmost_Column_With_Least_One >= 1.0.0",
       "Q1650_Lowest_Common_Ancestor_of_a_Binary_Tree_III >= 1.0.0",
@@ -447,6 +463,9 @@
           "projectReferences": {
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Library/Library.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Library/Library.csproj"
+            },
+            "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q10_Regular_Expression_Matching/Q10_Regular_Expression_Matching.csproj": {
+              "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q10_Regular_Expression_Matching/Q10_Regular_Expression_Matching.csproj"
             },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q1249_Minimum_Remove_To_Make_Valid_Parentheses/Q1249_Minimum_Remove_To_Make_Valid_Parentheses.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q1249_Minimum_Remove_To_Make_Valid_Parentheses/Q1249_Minimum_Remove_To_Make_Valid_Parentheses.csproj"
