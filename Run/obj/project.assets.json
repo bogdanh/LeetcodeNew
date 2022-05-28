@@ -166,6 +166,16 @@
           "bin/placeholder/Q297_Serialize_Deserialize_Binary_Tree.dll": {}
         }
       },
+      "Q29_Divide_Two_Integers/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Q29_Divide_Two_Integers.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Q29_Divide_Two_Integers.dll": {}
+        }
+      },
       "Q316_Remove_Duplicate_Letters/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -357,6 +367,11 @@
       "path": "../Q297_Serialize_Deserialize_Binary_Tree/Q297_Serialize_Deserialize_Binary_Tree.csproj",
       "msbuildProject": "../Q297_Serialize_Deserialize_Binary_Tree/Q297_Serialize_Deserialize_Binary_Tree.csproj"
     },
+    "Q29_Divide_Two_Integers/1.0.0": {
+      "type": "project",
+      "path": "../Q29_Divide_Two_Integers/Q29_Divide_Two_Integers.csproj",
+      "msbuildProject": "../Q29_Divide_Two_Integers/Q29_Divide_Two_Integers.csproj"
+    },
     "Q316_Remove_Duplicate_Letters/1.0.0": {
       "type": "project",
       "path": "../Q316_Remove_Duplicate_Letters/Q316_Remove_Duplicate_Letters.csproj",
@@ -424,6 +439,7 @@
       "Q273_Integer_To_English_Words >= 1.0.0",
       "Q282_Expression_Add_Operators >= 1.0.0",
       "Q297_Serialize_Deserialize_Binary_Tree >= 1.0.0",
+      "Q29_Divide_Two_Integers >= 1.0.0",
       "Q316_Remove_Duplicate_Letters >= 1.0.0",
       "Q383_Ransom_Note >= 1.0.0",
       "Q523_Continuous_Subarray_Sum >= 1.0.0",
@@ -502,6 +518,9 @@
             },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q297_Serialize_Deserialize_Binary_Tree/Q297_Serialize_Deserialize_Binary_Tree.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q297_Serialize_Deserialize_Binary_Tree/Q297_Serialize_Deserialize_Binary_Tree.csproj"
+            },
+            "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q29_Divide_Two_Integers/Q29_Divide_Two_Integers.csproj": {
+              "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q29_Divide_Two_Integers/Q29_Divide_Two_Integers.csproj"
             },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q316_Remove_Duplicate_Letters/Q316_Remove_Duplicate_Letters.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q316_Remove_Duplicate_Letters/Q316_Remove_Duplicate_Letters.csproj"

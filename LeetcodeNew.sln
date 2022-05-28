@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q199_Binary_Tree_Right_Side
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q10_Regular_Expression_Matching", "Q10_Regular_Expression_Matching\Q10_Regular_Expression_Matching.csproj", "{BE070D29-E95E-406A-A9F9-A6321601C0FB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q29_Divide_Two_Integers", "Q29_Divide_Two_Integers\Q29_Divide_Two_Integers.csproj", "{C9368B7F-D89A-455A-AD8B-9C86388FDB04}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -352,5 +354,17 @@ Global
 		{BE070D29-E95E-406A-A9F9-A6321601C0FB}.Release|x64.Build.0 = Release|Any CPU
 		{BE070D29-E95E-406A-A9F9-A6321601C0FB}.Release|x86.ActiveCfg = Release|Any CPU
 		{BE070D29-E95E-406A-A9F9-A6321601C0FB}.Release|x86.Build.0 = Release|Any CPU
+		{C9368B7F-D89A-455A-AD8B-9C86388FDB04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9368B7F-D89A-455A-AD8B-9C86388FDB04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9368B7F-D89A-455A-AD8B-9C86388FDB04}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C9368B7F-D89A-455A-AD8B-9C86388FDB04}.Debug|x64.Build.0 = Debug|Any CPU
+		{C9368B7F-D89A-455A-AD8B-9C86388FDB04}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C9368B7F-D89A-455A-AD8B-9C86388FDB04}.Debug|x86.Build.0 = Debug|Any CPU
+		{C9368B7F-D89A-455A-AD8B-9C86388FDB04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9368B7F-D89A-455A-AD8B-9C86388FDB04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9368B7F-D89A-455A-AD8B-9C86388FDB04}.Release|x64.ActiveCfg = Release|Any CPU
+		{C9368B7F-D89A-455A-AD8B-9C86388FDB04}.Release|x64.Build.0 = Release|Any CPU
+		{C9368B7F-D89A-455A-AD8B-9C86388FDB04}.Release|x86.ActiveCfg = Release|Any CPU
+		{C9368B7F-D89A-455A-AD8B-9C86388FDB04}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
