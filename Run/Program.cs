@@ -4,7 +4,7 @@ namespace Run {
     class Program {
         static void Main(string[] args) {
             // Q10_Regular_Expression_Matching.Q10_Regular_Expression_Matching.Run();
-            Q29_Divide_Two_Integers.Q29_Divide_Two_Integers.Run();
+            // Q29_Divide_Two_Integers.Q29_Divide_Two_Integers.Run();
             // Q56_Merge_Intervals.Q56_Merge_Intervals.Run();
             // Q65_Valid_Number.Q65_Valid_Number.Run();
             // Q173_Binary_Search_Tree_Iterator.Q173_Binary_Search_Tree_Iterator.Run();
@@ -20,6 +20,7 @@ namespace Run {
             // Q523_Continuous_Subarray_Sum.Q523_Continuous_Subarray_Sum.Run();
             // Q528_Random_Pick_with_Weight.Q528_Random_Pick_with_Weight.Run();
             // Q621_Task_Scheduler.Q621_Task_Scheduler.Run();
+            Q636_Exclusive_Time_of_Function.Q636_Exclusive_Time_of_Function.Run();
             // Q689_Maximum_Sum_of_3_Non_Overlapping_Subarrays.Q689_Maximum_Sum_of_3_Non_Overlapping_Subarrays.Run();
             // Q973_K_Closest_Points_To_Origin.Q973_K_Closest_Points_To_Origin.Run();
             // Q986_Interval_List_Intersections.Q986_Interval_List_Intersections.Run();

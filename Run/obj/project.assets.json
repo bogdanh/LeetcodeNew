@@ -248,6 +248,19 @@
           "bin/placeholder/Q621_Task_Scheduler.dll": {}
         }
       },
+      "Q636_Exclusive_Time_of_Function/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Library": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Q636_Exclusive_Time_of_Function.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Q636_Exclusive_Time_of_Function.dll": {}
+        }
+      },
       "Q65_Valid_Number/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -402,6 +415,11 @@
       "path": "../Q621_Task_Scheduler/Q621_Task_Scheduler.csproj",
       "msbuildProject": "../Q621_Task_Scheduler/Q621_Task_Scheduler.csproj"
     },
+    "Q636_Exclusive_Time_of_Function/1.0.0": {
+      "type": "project",
+      "path": "../Q636_Exclusive_Time_of_Function/Q636_Exclusive_Time_of_Function.csproj",
+      "msbuildProject": "../Q636_Exclusive_Time_of_Function/Q636_Exclusive_Time_of_Function.csproj"
+    },
     "Q65_Valid_Number/1.0.0": {
       "type": "project",
       "path": "../Q65_Valid_Number/Q65_Valid_Number.csproj",
@@ -446,6 +464,7 @@
       "Q528_Random_Pick_with_Weight >= 1.0.0",
       "Q56_Merge_Intervals >= 1.0.0",
       "Q621_Task_Scheduler >= 1.0.0",
+      "Q636_Exclusive_Time_of_Function >= 1.0.0",
       "Q65_Valid_Number >= 1.0.0",
       "Q689_Maximum_Sum_of_3_Non-Overlapping_Subarrays >= 1.0.0",
       "Q973_K_Closest_Points_To_Origin >= 1.0.0",
@@ -539,6 +558,9 @@
             },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q621_Task_Scheduler/Q621_Task_Scheduler.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q621_Task_Scheduler/Q621_Task_Scheduler.csproj"
+            },
+            "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q636_Exclusive_Time_of_Function/Q636_Exclusive_Time_of_Function.csproj": {
+              "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q636_Exclusive_Time_of_Function/Q636_Exclusive_Time_of_Function.csproj"
             },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q65_Valid_Number/Q65_Valid_Number.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q65_Valid_Number/Q65_Valid_Number.csproj"

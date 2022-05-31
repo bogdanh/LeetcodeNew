@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q10_Regular_Expression_Matc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q29_Divide_Two_Integers", "Q29_Divide_Two_Integers\Q29_Divide_Two_Integers.csproj", "{C9368B7F-D89A-455A-AD8B-9C86388FDB04}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q636_Exclusive_Time_of_Function", "Q636_Exclusive_Time_of_Function\Q636_Exclusive_Time_of_Function.csproj", "{CF3AA32B-8246-4437-9231-871492FD76DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -366,5 +368,17 @@ Global
 		{C9368B7F-D89A-455A-AD8B-9C86388FDB04}.Release|x64.Build.0 = Release|Any CPU
 		{C9368B7F-D89A-455A-AD8B-9C86388FDB04}.Release|x86.ActiveCfg = Release|Any CPU
 		{C9368B7F-D89A-455A-AD8B-9C86388FDB04}.Release|x86.Build.0 = Release|Any CPU
+		{CF3AA32B-8246-4437-9231-871492FD76DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF3AA32B-8246-4437-9231-871492FD76DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF3AA32B-8246-4437-9231-871492FD76DA}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{CF3AA32B-8246-4437-9231-871492FD76DA}.Debug|x64.Build.0 = Debug|Any CPU
+		{CF3AA32B-8246-4437-9231-871492FD76DA}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CF3AA32B-8246-4437-9231-871492FD76DA}.Debug|x86.Build.0 = Debug|Any CPU
+		{CF3AA32B-8246-4437-9231-871492FD76DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF3AA32B-8246-4437-9231-871492FD76DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF3AA32B-8246-4437-9231-871492FD76DA}.Release|x64.ActiveCfg = Release|Any CPU
+		{CF3AA32B-8246-4437-9231-871492FD76DA}.Release|x64.Build.0 = Release|Any CPU
+		{CF3AA32B-8246-4437-9231-871492FD76DA}.Release|x86.ActiveCfg = Release|Any CPU
+		{CF3AA32B-8246-4437-9231-871492FD76DA}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
