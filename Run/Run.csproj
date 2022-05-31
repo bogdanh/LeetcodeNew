@@ -27,6 +27,7 @@
     <ProjectReference Include="..\Q10_Regular_Expression_Matching\Q10_Regular_Expression_Matching.csproj" />
     <ProjectReference Include="..\Q29_Divide_Two_Integers\Q29_Divide_Two_Integers.csproj" />
     <ProjectReference Include="..\Q636_Exclusive_Time_of_Function\Q636_Exclusive_Time_of_Function.csproj" />
+    <ProjectReference Include="..\Q152_Maximum_Product_Subarray\Q152_Maximum_Product_Subarray.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

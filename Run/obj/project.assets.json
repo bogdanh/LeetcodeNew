@@ -42,6 +42,19 @@
           "bin/placeholder/Q1428_Leftmost_Column_With_Least_One.dll": {}
         }
       },
+      "Q152_Maximum_Product_Subarray/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Library": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Q152_Maximum_Product_Subarray.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Q152_Maximum_Product_Subarray.dll": {}
+        }
+      },
       "Q1650_Lowest_Common_Ancestor_of_a_Binary_Tree_III/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -330,6 +343,11 @@
       "path": "../Q1428_Leftmost_Column_With_Least_One/Q1428_Leftmost_Column_With_Least_One.csproj",
       "msbuildProject": "../Q1428_Leftmost_Column_With_Least_One/Q1428_Leftmost_Column_With_Least_One.csproj"
     },
+    "Q152_Maximum_Product_Subarray/1.0.0": {
+      "type": "project",
+      "path": "../Q152_Maximum_Product_Subarray/Q152_Maximum_Product_Subarray.csproj",
+      "msbuildProject": "../Q152_Maximum_Product_Subarray/Q152_Maximum_Product_Subarray.csproj"
+    },
     "Q1650_Lowest_Common_Ancestor_of_a_Binary_Tree_III/1.0.0": {
       "type": "project",
       "path": "../Q1650_Lowest_Common_Ancestor_of_a_Binary_Tree_III/Q1650_Lowest_Common_Ancestor_of_a_Binary_Tree_III.csproj",
@@ -447,6 +465,7 @@
       "Q10_Regular_Expression_Matching >= 1.0.0",
       "Q1249_Minimum_Remove_To_Make_Valid_Parentheses >= 1.0.0",
       "Q1428_Leftmost_Column_With_Least_One >= 1.0.0",
+      "Q152_Maximum_Product_Subarray >= 1.0.0",
       "Q1650_Lowest_Common_Ancestor_of_a_Binary_Tree_III >= 1.0.0",
       "Q173_Binary_Search_Tree_Iterator >= 1.0.0",
       "Q1792_Buildings_With_Ocean_View >= 1.0.0",
@@ -507,6 +526,9 @@
             },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q1428_Leftmost_Column_With_Least_One/Q1428_Leftmost_Column_With_Least_One.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q1428_Leftmost_Column_With_Least_One/Q1428_Leftmost_Column_With_Least_One.csproj"
+            },
+            "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q152_Maximum_Product_Subarray/Q152_Maximum_Product_Subarray.csproj": {
+              "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q152_Maximum_Product_Subarray/Q152_Maximum_Product_Subarray.csproj"
             },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q1650_Lowest_Common_Ancestor_of_a_Binary_Tree_III/Q1650_Lowest_Common_Ancestor_of_a_Binary_Tree_III.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q1650_Lowest_Common_Ancestor_of_a_Binary_Tree_III/Q1650_Lowest_Common_Ancestor_of_a_Binary_Tree_III.csproj"
