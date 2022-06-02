@@ -57,6 +57,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q636_Exclusive_Time_of_Func
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q152_Maximum_Product_Subarray", "Q152_Maximum_Product_Subarray\Q152_Maximum_Product_Subarray.csproj", "{1BA8C221-7646-4061-B42E-50E59C544B5B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q76_Minimum_WIndow_Substring", "Q76_Minimum_WIndow_Substring\Q76_Minimum_WIndow_Substring.csproj", "{02B5EE46-66FA-42DF-A71E-F375CBAEBB45}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -394,5 +396,17 @@ Global
 		{1BA8C221-7646-4061-B42E-50E59C544B5B}.Release|x64.Build.0 = Release|Any CPU
 		{1BA8C221-7646-4061-B42E-50E59C544B5B}.Release|x86.ActiveCfg = Release|Any CPU
 		{1BA8C221-7646-4061-B42E-50E59C544B5B}.Release|x86.Build.0 = Release|Any CPU
+		{02B5EE46-66FA-42DF-A71E-F375CBAEBB45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02B5EE46-66FA-42DF-A71E-F375CBAEBB45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02B5EE46-66FA-42DF-A71E-F375CBAEBB45}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{02B5EE46-66FA-42DF-A71E-F375CBAEBB45}.Debug|x64.Build.0 = Debug|Any CPU
+		{02B5EE46-66FA-42DF-A71E-F375CBAEBB45}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{02B5EE46-66FA-42DF-A71E-F375CBAEBB45}.Debug|x86.Build.0 = Debug|Any CPU
+		{02B5EE46-66FA-42DF-A71E-F375CBAEBB45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02B5EE46-66FA-42DF-A71E-F375CBAEBB45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02B5EE46-66FA-42DF-A71E-F375CBAEBB45}.Release|x64.ActiveCfg = Release|Any CPU
+		{02B5EE46-66FA-42DF-A71E-F375CBAEBB45}.Release|x64.Build.0 = Release|Any CPU
+		{02B5EE46-66FA-42DF-A71E-F375CBAEBB45}.Release|x86.ActiveCfg = Release|Any CPU
+		{02B5EE46-66FA-42DF-A71E-F375CBAEBB45}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
