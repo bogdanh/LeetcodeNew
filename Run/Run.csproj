@@ -29,6 +29,7 @@
     <ProjectReference Include="..\Q636_Exclusive_Time_of_Function\Q636_Exclusive_Time_of_Function.csproj" />
     <ProjectReference Include="..\Q152_Maximum_Product_Subarray\Q152_Maximum_Product_Subarray.csproj" />
     <ProjectReference Include="..\Q76_Minimum_WIndow_Substring\Q76_Minimum_WIndow_Substring.csproj" />
+    <ProjectReference Include="..\Counting_Sort\Counting_Sort.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

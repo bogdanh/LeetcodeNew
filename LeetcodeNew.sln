@@ -59,6 +59,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q152_Maximum_Product_Subarr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q76_Minimum_WIndow_Substring", "Q76_Minimum_WIndow_Substring\Q76_Minimum_WIndow_Substring.csproj", "{02B5EE46-66FA-42DF-A71E-F375CBAEBB45}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Counting_Sort", "Counting_Sort\Counting_Sort.csproj", "{1EABBE5D-824A-4D0A-BF40-351235DD6335}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -408,5 +410,17 @@ Global
 		{02B5EE46-66FA-42DF-A71E-F375CBAEBB45}.Release|x64.Build.0 = Release|Any CPU
 		{02B5EE46-66FA-42DF-A71E-F375CBAEBB45}.Release|x86.ActiveCfg = Release|Any CPU
 		{02B5EE46-66FA-42DF-A71E-F375CBAEBB45}.Release|x86.Build.0 = Release|Any CPU
+		{1EABBE5D-824A-4D0A-BF40-351235DD6335}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EABBE5D-824A-4D0A-BF40-351235DD6335}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EABBE5D-824A-4D0A-BF40-351235DD6335}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{1EABBE5D-824A-4D0A-BF40-351235DD6335}.Debug|x64.Build.0 = Debug|Any CPU
+		{1EABBE5D-824A-4D0A-BF40-351235DD6335}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1EABBE5D-824A-4D0A-BF40-351235DD6335}.Debug|x86.Build.0 = Debug|Any CPU
+		{1EABBE5D-824A-4D0A-BF40-351235DD6335}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EABBE5D-824A-4D0A-BF40-351235DD6335}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EABBE5D-824A-4D0A-BF40-351235DD6335}.Release|x64.ActiveCfg = Release|Any CPU
+		{1EABBE5D-824A-4D0A-BF40-351235DD6335}.Release|x64.Build.0 = Release|Any CPU
+		{1EABBE5D-824A-4D0A-BF40-351235DD6335}.Release|x86.ActiveCfg = Release|Any CPU
+		{1EABBE5D-824A-4D0A-BF40-351235DD6335}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

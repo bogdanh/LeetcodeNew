@@ -2,6 +2,19 @@
   "version": 3,
   "targets": {
     "net6.0": {
+      "Counting_Sort/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Library": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Counting_Sort.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Counting_Sort.dll": {}
+        }
+      },
       "Library/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -336,6 +349,11 @@
     }
   },
   "libraries": {
+    "Counting_Sort/1.0.0": {
+      "type": "project",
+      "path": "../Counting_Sort/Counting_Sort.csproj",
+      "msbuildProject": "../Counting_Sort/Counting_Sort.csproj"
+    },
     "Library/1.0.0": {
       "type": "project",
       "path": "../Library/Library.csproj",
@@ -479,6 +497,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "Counting_Sort >= 1.0.0",
       "Library >= 1.0.0",
       "Q10_Regular_Expression_Matching >= 1.0.0",
       "Q1249_Minimum_Remove_To_Make_Valid_Parentheses >= 1.0.0",
@@ -534,6 +553,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Counting_Sort/Counting_Sort.csproj": {
+              "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Counting_Sort/Counting_Sort.csproj"
+            },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Library/Library.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Library/Library.csproj"
             },
