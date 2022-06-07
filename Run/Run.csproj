@@ -30,6 +30,7 @@
     <ProjectReference Include="..\Q152_Maximum_Product_Subarray\Q152_Maximum_Product_Subarray.csproj" />
     <ProjectReference Include="..\Q76_Minimum_WIndow_Substring\Q76_Minimum_WIndow_Substring.csproj" />
     <ProjectReference Include="..\Counting_Sort\Counting_Sort.csproj" />
+    <ProjectReference Include="..\Q283_Move_Zeroes\Q283_Move_Zeroes.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

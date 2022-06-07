@@ -179,6 +179,19 @@
           "bin/placeholder/Q282_Expression_Add_Operators.dll": {}
         }
       },
+      "Q283_Move_Zeroes/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Library": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Q283_Move_Zeroes.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Q283_Move_Zeroes.dll": {}
+        }
+      },
       "Q297_Serialize_Deserialize_Binary_Tree/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -424,6 +437,11 @@
       "path": "../Q282_Expression_Add_Operators/Q282_Expression_Add_Operators.csproj",
       "msbuildProject": "../Q282_Expression_Add_Operators/Q282_Expression_Add_Operators.csproj"
     },
+    "Q283_Move_Zeroes/1.0.0": {
+      "type": "project",
+      "path": "../Q283_Move_Zeroes/Q283_Move_Zeroes.csproj",
+      "msbuildProject": "../Q283_Move_Zeroes/Q283_Move_Zeroes.csproj"
+    },
     "Q297_Serialize_Deserialize_Binary_Tree/1.0.0": {
       "type": "project",
       "path": "../Q297_Serialize_Deserialize_Binary_Tree/Q297_Serialize_Deserialize_Binary_Tree.csproj",
@@ -512,6 +530,7 @@
       "Q269_Alien_Dictionary >= 1.0.0",
       "Q273_Integer_To_English_Words >= 1.0.0",
       "Q282_Expression_Add_Operators >= 1.0.0",
+      "Q283_Move_Zeroes >= 1.0.0",
       "Q297_Serialize_Deserialize_Binary_Tree >= 1.0.0",
       "Q29_Divide_Two_Integers >= 1.0.0",
       "Q316_Remove_Duplicate_Letters >= 1.0.0",
@@ -597,6 +616,9 @@
             },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q282_Expression_Add_Operators/Q282_Expression_Add_Operators.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q282_Expression_Add_Operators/Q282_Expression_Add_Operators.csproj"
+            },
+            "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q283_Move_Zeroes/Q283_Move_Zeroes.csproj": {
+              "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q283_Move_Zeroes/Q283_Move_Zeroes.csproj"
             },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q297_Serialize_Deserialize_Binary_Tree/Q297_Serialize_Deserialize_Binary_Tree.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q297_Serialize_Deserialize_Binary_Tree/Q297_Serialize_Deserialize_Binary_Tree.csproj"
