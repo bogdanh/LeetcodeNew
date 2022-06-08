@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Counting_Sort", "Counting_S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q283_Move_Zeroes", "Q283_Move_Zeroes\Q283_Move_Zeroes.csproj", "{E995E0DA-8B64-4E8D-82A5-504053BDD2CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q23_Merge_K_Sorted_Lists", "Q23_Merge_K_Sorted_Lists\Q23_Merge_K_Sorted_Lists.csproj", "{40039466-921F-48E5-8BE1-A14B8F734D18}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -436,5 +438,17 @@ Global
 		{E995E0DA-8B64-4E8D-82A5-504053BDD2CA}.Release|x64.Build.0 = Release|Any CPU
 		{E995E0DA-8B64-4E8D-82A5-504053BDD2CA}.Release|x86.ActiveCfg = Release|Any CPU
 		{E995E0DA-8B64-4E8D-82A5-504053BDD2CA}.Release|x86.Build.0 = Release|Any CPU
+		{40039466-921F-48E5-8BE1-A14B8F734D18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40039466-921F-48E5-8BE1-A14B8F734D18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40039466-921F-48E5-8BE1-A14B8F734D18}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{40039466-921F-48E5-8BE1-A14B8F734D18}.Debug|x64.Build.0 = Debug|Any CPU
+		{40039466-921F-48E5-8BE1-A14B8F734D18}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{40039466-921F-48E5-8BE1-A14B8F734D18}.Debug|x86.Build.0 = Debug|Any CPU
+		{40039466-921F-48E5-8BE1-A14B8F734D18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40039466-921F-48E5-8BE1-A14B8F734D18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40039466-921F-48E5-8BE1-A14B8F734D18}.Release|x64.ActiveCfg = Release|Any CPU
+		{40039466-921F-48E5-8BE1-A14B8F734D18}.Release|x64.Build.0 = Release|Any CPU
+		{40039466-921F-48E5-8BE1-A14B8F734D18}.Release|x86.ActiveCfg = Release|Any CPU
+		{40039466-921F-48E5-8BE1-A14B8F734D18}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

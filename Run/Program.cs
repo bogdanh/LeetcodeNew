@@ -2,6 +2,7 @@
     class Program {
         static void Main(string[] args) {
             // Q10_Regular_Expression_Matching.Q10_Regular_Expression_Matching.Run();
+            Q23_Merge_K_Sorted_Lists.Q23_Merge_K_Sorted_Lists.Run();
             // Q29_Divide_Two_Integers.Q29_Divide_Two_Integers.Run();
             // Q56_Merge_Intervals.Q56_Merge_Intervals.Run();
             // Q65_Valid_Number.Q65_Valid_Number.Run();
@@ -13,7 +14,7 @@
             // Q269_Alien_Dictionary.Q269_Alien_Dictionary.Run();
             // Q273_Integer_To_English_Words.Q273_Integer_To_English_Words.Run();
             // Q282_Expression_Add_Operators.Q282_Expression_Add_Operators.Run();
-            Q283_Move_Zeroes.Q283_Move_Zeroes.Run();
+            // Q283_Move_Zeroes.Q283_Move_Zeroes.Run();
             // Q297_Serialize_Deserialize_Binary_Tree.Q297_Serialize_Deserialize_Binary_Tree.Run();
             // Q316_Remove_Duplicate_Letters.Q316_Remove_Duplocate_Letters.Run();
             // Q383_Ransom_Note.Ransom_Note.Run();
