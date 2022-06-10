@@ -32,6 +32,7 @@
     <ProjectReference Include="..\Counting_Sort\Counting_Sort.csproj" />
     <ProjectReference Include="..\Q283_Move_Zeroes\Q283_Move_Zeroes.csproj" />
     <ProjectReference Include="..\Q23_Merge_K_Sorted_Lists\Q23_Merge_K_Sorted_Lists.csproj" />
+    <ProjectReference Include="..\Q71_Simplify_Path\Q71_Simplify_Path.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

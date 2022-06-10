@@ -339,6 +339,16 @@
           "bin/placeholder/Q689_Maximum_Sum_of_3_Non-Overlapping_Subarrays.dll": {}
         }
       },
+      "Q71_Simplify_Path/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Q71_Simplify_Path.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Q71_Simplify_Path.dll": {}
+        }
+      },
       "Q76_Minimum_WIndow_Substring/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -515,6 +525,11 @@
       "path": "../Q689_Maximum_Sum_of_3_Non-Overlapping_Subarrays/Q689_Maximum_Sum_of_3_Non-Overlapping_Subarrays.csproj",
       "msbuildProject": "../Q689_Maximum_Sum_of_3_Non-Overlapping_Subarrays/Q689_Maximum_Sum_of_3_Non-Overlapping_Subarrays.csproj"
     },
+    "Q71_Simplify_Path/1.0.0": {
+      "type": "project",
+      "path": "../Q71_Simplify_Path/Q71_Simplify_Path.csproj",
+      "msbuildProject": "../Q71_Simplify_Path/Q71_Simplify_Path.csproj"
+    },
     "Q76_Minimum_WIndow_Substring/1.0.0": {
       "type": "project",
       "path": "../Q76_Minimum_WIndow_Substring/Q76_Minimum_WIndow_Substring.csproj",
@@ -561,6 +576,7 @@
       "Q636_Exclusive_Time_of_Function >= 1.0.0",
       "Q65_Valid_Number >= 1.0.0",
       "Q689_Maximum_Sum_of_3_Non-Overlapping_Subarrays >= 1.0.0",
+      "Q71_Simplify_Path >= 1.0.0",
       "Q76_Minimum_WIndow_Substring >= 1.0.0",
       "Q973_K_Closest_Points_To_Origin >= 1.0.0",
       "Q986_Interval_List_Intersections >= 1.0.0"
@@ -674,6 +690,9 @@
             },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q689_Maximum_Sum_of_3_Non-Overlapping_Subarrays/Q689_Maximum_Sum_of_3_Non-Overlapping_Subarrays.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q689_Maximum_Sum_of_3_Non-Overlapping_Subarrays/Q689_Maximum_Sum_of_3_Non-Overlapping_Subarrays.csproj"
+            },
+            "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q71_Simplify_Path/Q71_Simplify_Path.csproj": {
+              "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q71_Simplify_Path/Q71_Simplify_Path.csproj"
             },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q76_Minimum_WIndow_Substring/Q76_Minimum_WIndow_Substring.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q76_Minimum_WIndow_Substring/Q76_Minimum_WIndow_Substring.csproj"
