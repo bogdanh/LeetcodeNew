@@ -159,6 +159,19 @@
           "bin/placeholder/Q23_Merge_K_Sorted_Lists.dll": {}
         }
       },
+      "Q253_Meeting_Room_II/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Library": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Q253_Meeting_Room_II.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Q253_Meeting_Room_II.dll": {}
+        }
+      },
       "Q269_Alien_Dictionary/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -450,6 +463,11 @@
       "path": "../Q23_Merge_K_Sorted_Lists/Q23_Merge_K_Sorted_Lists.csproj",
       "msbuildProject": "../Q23_Merge_K_Sorted_Lists/Q23_Merge_K_Sorted_Lists.csproj"
     },
+    "Q253_Meeting_Room_II/1.0.0": {
+      "type": "project",
+      "path": "../Q253_Meeting_Room_II/Q253_Meeting_Room_II.csproj",
+      "msbuildProject": "../Q253_Meeting_Room_II/Q253_Meeting_Room_II.csproj"
+    },
     "Q269_Alien_Dictionary/1.0.0": {
       "type": "project",
       "path": "../Q269_Alien_Dictionary/Q269_Alien_Dictionary.csproj",
@@ -561,6 +579,7 @@
       "Q215_Kth_Largest_Element >= 1.0.0",
       "Q236_Lowest_Common_Ancestor_of_a_Binary_Tree >= 1.0.0",
       "Q23_Merge_K_Sorted_Lists >= 1.0.0",
+      "Q253_Meeting_Room_II >= 1.0.0",
       "Q269_Alien_Dictionary >= 1.0.0",
       "Q273_Integer_To_English_Words >= 1.0.0",
       "Q282_Expression_Add_Operators >= 1.0.0",
@@ -645,6 +664,9 @@
             },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q23_Merge_K_Sorted_Lists/Q23_Merge_K_Sorted_Lists.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q23_Merge_K_Sorted_Lists/Q23_Merge_K_Sorted_Lists.csproj"
+            },
+            "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q253_Meeting_Room_II/Q253_Meeting_Room_II.csproj": {
+              "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q253_Meeting_Room_II/Q253_Meeting_Room_II.csproj"
             },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q269_Alien_Dictionary/Q269_Alien_Dictionary.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q269_Alien_Dictionary/Q269_Alien_Dictionary.csproj"
