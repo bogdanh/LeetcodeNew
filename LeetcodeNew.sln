@@ -69,6 +69,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q71_Simplify_Path", "Q71_Si
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q253_Meeting_Room_II", "Q253_Meeting_Room_II\Q253_Meeting_Room_II.csproj", "{429155A8-7CEF-4129-87D6-FAD65CA79BAE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q211_Design_Add_Search_Words_Data_Structure", "Q211_Design_Add_Search_Words_Data_Structure\Q211_Design_Add_Search_Words_Data_Structure.csproj", "{E17C0532-8798-4245-8644-D4F02C3A6E13}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -478,5 +480,17 @@ Global
 		{429155A8-7CEF-4129-87D6-FAD65CA79BAE}.Release|x64.Build.0 = Release|Any CPU
 		{429155A8-7CEF-4129-87D6-FAD65CA79BAE}.Release|x86.ActiveCfg = Release|Any CPU
 		{429155A8-7CEF-4129-87D6-FAD65CA79BAE}.Release|x86.Build.0 = Release|Any CPU
+		{E17C0532-8798-4245-8644-D4F02C3A6E13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E17C0532-8798-4245-8644-D4F02C3A6E13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E17C0532-8798-4245-8644-D4F02C3A6E13}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{E17C0532-8798-4245-8644-D4F02C3A6E13}.Debug|x64.Build.0 = Debug|Any CPU
+		{E17C0532-8798-4245-8644-D4F02C3A6E13}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E17C0532-8798-4245-8644-D4F02C3A6E13}.Debug|x86.Build.0 = Debug|Any CPU
+		{E17C0532-8798-4245-8644-D4F02C3A6E13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E17C0532-8798-4245-8644-D4F02C3A6E13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E17C0532-8798-4245-8644-D4F02C3A6E13}.Release|x64.ActiveCfg = Release|Any CPU
+		{E17C0532-8798-4245-8644-D4F02C3A6E13}.Release|x64.Build.0 = Release|Any CPU
+		{E17C0532-8798-4245-8644-D4F02C3A6E13}.Release|x86.ActiveCfg = Release|Any CPU
+		{E17C0532-8798-4245-8644-D4F02C3A6E13}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
