@@ -35,6 +35,7 @@
     <ProjectReference Include="..\Q71_Simplify_Path\Q71_Simplify_Path.csproj" />
     <ProjectReference Include="..\Q253_Meeting_Room_II\Q253_Meeting_Room_II.csproj" />
     <ProjectReference Include="..\Q211_Design_Add_Search_Words_Data_Structure\Q211_Design_Add_Search_Words_Data_Structure.csproj" />
+    <ProjectReference Include="..\Q189_Rotate_Array\Q189_Rotate_Array.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

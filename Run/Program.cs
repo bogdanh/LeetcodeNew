@@ -9,8 +9,9 @@
             // Q71_Simplify_Path.Q71_Simplify_Path.Run();
             // Q152_Maximum_Product_Subarray.Q152_Maximum_Product_Subarray.Run();
             // Q173_Binary_Search_Tree_Iterator.Q173_Binary_Search_Tree_Iterator.Run();
+            Q189_Rotate_Array.Q189_Rotate_Array.Run();
             // Q199_Binary_Tree_Right_Side_View.Q199_Binary_Tree_Right_Side_View.Run();
-            Q211_Design_Add_Search_Words_Data_Structure.Q211_Design_Add_Search_Words_Data_Structure.Run();
+            // Q211_Design_Add_Search_Words_Data_Structure.Q211_Design_Add_Search_Words_Data_Structure.Run();
             // Q215_Kth_Largest_Element.Q215_Kth_Largest_Element.Run();
             // Q236_Lowest_Common_Ancestor_of_a_Binary_Tree.Q236_Lowest_Common_Ancestor_of_a_Binary_Tree.Run();
             // Q253_Meeting_Room_II.Q253_Meeting_Room_II.Run();

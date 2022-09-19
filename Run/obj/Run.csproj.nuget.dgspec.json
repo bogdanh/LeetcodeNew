@@ -492,6 +492,58 @@
         }
       }
     },
+    "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q189_Rotate_Array/Q189_Rotate_Array.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q189_Rotate_Array/Q189_Rotate_Array.csproj",
+        "projectName": "Q189_Rotate_Array",
+        "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q189_Rotate_Array/Q189_Rotate_Array.csproj",
+        "packagesPath": "/Users/Bogdan/.nuget/packages/",
+        "outputPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q189_Rotate_Array/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Bogdan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q199_Binary_Tree_Right_Side_View/Q199_Binary_Tree_Right_Side_View.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -1908,6 +1960,9 @@
               },
               "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q1792_Buildings_With_Ocean_View/Q1792_Buildings_With_Ocean_View.csproj": {
                 "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q1792_Buildings_With_Ocean_View/Q1792_Buildings_With_Ocean_View.csproj"
+              },
+              "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q189_Rotate_Array/Q189_Rotate_Array.csproj": {
+                "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q189_Rotate_Array/Q189_Rotate_Array.csproj"
               },
               "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q199_Binary_Tree_Right_Side_View/Q199_Binary_Tree_Right_Side_View.csproj": {
                 "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q199_Binary_Tree_Right_Side_View/Q199_Binary_Tree_Right_Side_View.csproj"

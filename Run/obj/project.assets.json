@@ -107,6 +107,16 @@
           "bin/placeholder/Q1792_Buildings_With_Ocean_View.dll": {}
         }
       },
+      "Q189_Rotate_Array/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Q189_Rotate_Array.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Q189_Rotate_Array.dll": {}
+        }
+      },
       "Q199_Binary_Tree_Right_Side_View/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -456,6 +466,11 @@
       "path": "../Q1792_Buildings_With_Ocean_View/Q1792_Buildings_With_Ocean_View.csproj",
       "msbuildProject": "../Q1792_Buildings_With_Ocean_View/Q1792_Buildings_With_Ocean_View.csproj"
     },
+    "Q189_Rotate_Array/1.0.0": {
+      "type": "project",
+      "path": "../Q189_Rotate_Array/Q189_Rotate_Array.csproj",
+      "msbuildProject": "../Q189_Rotate_Array/Q189_Rotate_Array.csproj"
+    },
     "Q199_Binary_Tree_Right_Side_View/1.0.0": {
       "type": "project",
       "path": "../Q199_Binary_Tree_Right_Side_View/Q199_Binary_Tree_Right_Side_View.csproj",
@@ -593,6 +608,7 @@
       "Q1650_Lowest_Common_Ancestor_of_a_Binary_Tree_III >= 1.0.0",
       "Q173_Binary_Search_Tree_Iterator >= 1.0.0",
       "Q1792_Buildings_With_Ocean_View >= 1.0.0",
+      "Q189_Rotate_Array >= 1.0.0",
       "Q199_Binary_Tree_Right_Side_View >= 1.0.0",
       "Q211_Design_Add_Search_Words_Data_Structure >= 1.0.0",
       "Q215_Kth_Largest_Element >= 1.0.0",
@@ -671,6 +687,9 @@
             },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q1792_Buildings_With_Ocean_View/Q1792_Buildings_With_Ocean_View.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q1792_Buildings_With_Ocean_View/Q1792_Buildings_With_Ocean_View.csproj"
+            },
+            "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q189_Rotate_Array/Q189_Rotate_Array.csproj": {
+              "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q189_Rotate_Array/Q189_Rotate_Array.csproj"
             },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q199_Binary_Tree_Right_Side_View/Q199_Binary_Tree_Right_Side_View.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q199_Binary_Tree_Right_Side_View/Q199_Binary_Tree_Right_Side_View.csproj"
