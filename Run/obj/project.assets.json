@@ -284,6 +284,16 @@
           "bin/placeholder/Q383_Ransom_Note.dll": {}
         }
       },
+      "Q387_First_Unique_Character_In_a_String/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Q387_First_Unique_Character_In_a_String.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Q387_First_Unique_Character_In_a_String.dll": {}
+        }
+      },
       "Q523_Continuous_Subarray_Sum/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -541,6 +551,11 @@
       "path": "../Q383_Ransom_Note/Q383_Ransom_Note.csproj",
       "msbuildProject": "../Q383_Ransom_Note/Q383_Ransom_Note.csproj"
     },
+    "Q387_First_Unique_Character_In_a_String/1.0.0": {
+      "type": "project",
+      "path": "../Q387_First_Unique_Character_In_a_String/Q387_First_Unique_Character_In_a_String.csproj",
+      "msbuildProject": "../Q387_First_Unique_Character_In_a_String/Q387_First_Unique_Character_In_a_String.csproj"
+    },
     "Q523_Continuous_Subarray_Sum/1.0.0": {
       "type": "project",
       "path": "../Q523_Continuous_Subarray_Sum/Q523_Continuous_Subarray_Sum.csproj",
@@ -623,6 +638,7 @@
       "Q29_Divide_Two_Integers >= 1.0.0",
       "Q316_Remove_Duplicate_Letters >= 1.0.0",
       "Q383_Ransom_Note >= 1.0.0",
+      "Q387_First_Unique_Character_In_a_String >= 1.0.0",
       "Q523_Continuous_Subarray_Sum >= 1.0.0",
       "Q528_Random_Pick_with_Weight >= 1.0.0",
       "Q56_Merge_Intervals >= 1.0.0",
@@ -732,6 +748,9 @@
             },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q383_Ransom_Note/Q383_Ransom_Note.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q383_Ransom_Note/Q383_Ransom_Note.csproj"
+            },
+            "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q387_First_Unique_Character_In_a_String/Q387_First_Unique_Character_In_a_String.csproj": {
+              "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q387_First_Unique_Character_In_a_String/Q387_First_Unique_Character_In_a_String.csproj"
             },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q523_Continuous_Subarray_Sum/Q523_Continuous_Subarray_Sum.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q523_Continuous_Subarray_Sum/Q523_Continuous_Subarray_Sum.csproj"

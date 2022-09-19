@@ -9,7 +9,7 @@
             // Q71_Simplify_Path.Q71_Simplify_Path.Run();
             // Q152_Maximum_Product_Subarray.Q152_Maximum_Product_Subarray.Run();
             // Q173_Binary_Search_Tree_Iterator.Q173_Binary_Search_Tree_Iterator.Run();
-            Q189_Rotate_Array.Q189_Rotate_Array.Run();
+            // Q189_Rotate_Array.Q189_Rotate_Array.Run();
             // Q199_Binary_Tree_Right_Side_View.Q199_Binary_Tree_Right_Side_View.Run();
             // Q211_Design_Add_Search_Words_Data_Structure.Q211_Design_Add_Search_Words_Data_Structure.Run();
             // Q215_Kth_Largest_Element.Q215_Kth_Largest_Element.Run();
@@ -22,6 +22,7 @@
             // Q297_Serialize_Deserialize_Binary_Tree.Q297_Serialize_Deserialize_Binary_Tree.Run();
             // Q316_Remove_Duplicate_Letters.Q316_Remove_Duplocate_Letters.Run();
             // Q383_Ransom_Note.Ransom_Note.Run();
+            Q387_First_Unique_Character_In_a_String.Q387_First_Unique_Character_In_a_String.Run();
             // Q523_Continuous_Subarray_Sum.Q523_Continuous_Subarray_Sum.Run();
             // Q528_Random_Pick_with_Weight.Q528_Random_Pick_with_Weight.Run();
             // Q621_Task_Scheduler.Q621_Task_Scheduler.Run();
