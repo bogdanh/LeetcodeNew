@@ -1,9 +1,10 @@
 ﻿namespace Run {
     class Program {
         static void Main(string[] args) {
-            Q_Missing_Plus_Two.Q_Missing_Plus_Two.Run();
+            //Q_Missing_Plus_Two.Q_Missing_Plus_Two.Run();
 
             // Q10_Regular_Expression_Matching.Q10_Regular_Expression_Matching.Run();
+            Q20_Valid_Parentheses.Q20_Valid_Parentheses.Run();
             // Q23_Merge_K_Sorted_Lists.Q23_Merge_K_Sorted_Lists.Run();
             // Q29_Divide_Two_Integers.Q29_Divide_Two_Integers.Run();
             // Q56_Merge_Intervals.Q56_Merge_Intervals.Run();

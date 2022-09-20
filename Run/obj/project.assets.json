@@ -130,6 +130,16 @@
           "bin/placeholder/Q199_Binary_Tree_Right_Side_View.dll": {}
         }
       },
+      "Q20_Valid_Parentheses/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Q20_Valid_Parentheses.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Q20_Valid_Parentheses.dll": {}
+        }
+      },
       "Q211_Design_Add_Search_Words_Data_Structure/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -496,6 +506,11 @@
       "path": "../Q199_Binary_Tree_Right_Side_View/Q199_Binary_Tree_Right_Side_View.csproj",
       "msbuildProject": "../Q199_Binary_Tree_Right_Side_View/Q199_Binary_Tree_Right_Side_View.csproj"
     },
+    "Q20_Valid_Parentheses/1.0.0": {
+      "type": "project",
+      "path": "../Q20_Valid_Parentheses/Q20_Valid_Parentheses.csproj",
+      "msbuildProject": "../Q20_Valid_Parentheses/Q20_Valid_Parentheses.csproj"
+    },
     "Q211_Design_Add_Search_Words_Data_Structure/1.0.0": {
       "type": "project",
       "path": "../Q211_Design_Add_Search_Words_Data_Structure/Q211_Design_Add_Search_Words_Data_Structure.csproj",
@@ -640,6 +655,7 @@
       "Q1792_Buildings_With_Ocean_View >= 1.0.0",
       "Q189_Rotate_Array >= 1.0.0",
       "Q199_Binary_Tree_Right_Side_View >= 1.0.0",
+      "Q20_Valid_Parentheses >= 1.0.0",
       "Q211_Design_Add_Search_Words_Data_Structure >= 1.0.0",
       "Q215_Kth_Largest_Element >= 1.0.0",
       "Q236_Lowest_Common_Ancestor_of_a_Binary_Tree >= 1.0.0",
@@ -725,6 +741,9 @@
             },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q199_Binary_Tree_Right_Side_View/Q199_Binary_Tree_Right_Side_View.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q199_Binary_Tree_Right_Side_View/Q199_Binary_Tree_Right_Side_View.csproj"
+            },
+            "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q20_Valid_Parentheses/Q20_Valid_Parentheses.csproj": {
+              "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q20_Valid_Parentheses/Q20_Valid_Parentheses.csproj"
             },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q211_Design_Add_Search_Words_Data_Structure/Q211_Design_Add_Search_Words_Data_Structure.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q211_Design_Add_Search_Words_Data_Structure/Q211_Design_Add_Search_Words_Data_Structure.csproj"
