@@ -427,6 +427,16 @@
         "runtime": {
           "bin/placeholder/Q986_Interval_List_Intersections.dll": {}
         }
+      },
+      "Q_Missing_Plus_Two/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Q_Missing_Plus_Two.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Q_Missing_Plus_Two.dll": {}
+        }
       }
     }
   },
@@ -610,6 +620,11 @@
       "type": "project",
       "path": "../Q986_Interval_List_Intersections/Q986_Interval_List_Intersections.csproj",
       "msbuildProject": "../Q986_Interval_List_Intersections/Q986_Interval_List_Intersections.csproj"
+    },
+    "Q_Missing_Plus_Two/1.0.0": {
+      "type": "project",
+      "path": "../Q_Missing_Plus_Two/Q_Missing_Plus_Two.csproj",
+      "msbuildProject": "../Q_Missing_Plus_Two/Q_Missing_Plus_Two.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -649,7 +664,8 @@
       "Q71_Simplify_Path >= 1.0.0",
       "Q76_Minimum_WIndow_Substring >= 1.0.0",
       "Q973_K_Closest_Points_To_Origin >= 1.0.0",
-      "Q986_Interval_List_Intersections >= 1.0.0"
+      "Q986_Interval_List_Intersections >= 1.0.0",
+      "Q_Missing_Plus_Two >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -784,6 +800,9 @@
             },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q986_Interval_List_Intersections/Q986_Interval_List_Intersections.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q986_Interval_List_Intersections/Q986_Interval_List_Intersections.csproj"
+            },
+            "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q_Missing_Plus_Two/Q_Missing_Plus_Two.csproj": {
+              "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Q_Missing_Plus_Two/Q_Missing_Plus_Two.csproj"
             }
           }
         }

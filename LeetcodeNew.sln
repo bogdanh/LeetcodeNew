@@ -75,6 +75,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q189_Rotate_Array", "Q189_R
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q387_First_Unique_Character_In_a_String", "Q387_First_Unique_Character_In_a_String\Q387_First_Unique_Character_In_a_String.csproj", "{9082807A-83D9-4756-9A20-307EBF21D6E1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q_Missing_Plus_Two", "Q_Missing_Plus_Two\Q_Missing_Plus_Two.csproj", "{E9A1A414-3117-41D9-990E-ABA5D910B19C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -520,5 +522,17 @@ Global
 		{9082807A-83D9-4756-9A20-307EBF21D6E1}.Release|x64.Build.0 = Release|Any CPU
 		{9082807A-83D9-4756-9A20-307EBF21D6E1}.Release|x86.ActiveCfg = Release|Any CPU
 		{9082807A-83D9-4756-9A20-307EBF21D6E1}.Release|x86.Build.0 = Release|Any CPU
+		{E9A1A414-3117-41D9-990E-ABA5D910B19C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9A1A414-3117-41D9-990E-ABA5D910B19C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9A1A414-3117-41D9-990E-ABA5D910B19C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{E9A1A414-3117-41D9-990E-ABA5D910B19C}.Debug|x64.Build.0 = Debug|Any CPU
+		{E9A1A414-3117-41D9-990E-ABA5D910B19C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E9A1A414-3117-41D9-990E-ABA5D910B19C}.Debug|x86.Build.0 = Debug|Any CPU
+		{E9A1A414-3117-41D9-990E-ABA5D910B19C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9A1A414-3117-41D9-990E-ABA5D910B19C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9A1A414-3117-41D9-990E-ABA5D910B19C}.Release|x64.ActiveCfg = Release|Any CPU
+		{E9A1A414-3117-41D9-990E-ABA5D910B19C}.Release|x64.Build.0 = Release|Any CPU
+		{E9A1A414-3117-41D9-990E-ABA5D910B19C}.Release|x86.ActiveCfg = Release|Any CPU
+		{E9A1A414-3117-41D9-990E-ABA5D910B19C}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
