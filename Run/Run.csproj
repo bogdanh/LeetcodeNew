@@ -39,6 +39,7 @@
     <ProjectReference Include="..\Q387_First_Unique_Character_In_a_String\Q387_First_Unique_Character_In_a_String.csproj" />
     <ProjectReference Include="..\Q_Missing_Plus_Two\Q_Missing_Plus_Two.csproj" />
     <ProjectReference Include="..\Q20_Valid_Parentheses\Q20_Valid_Parentheses.csproj" />
+    <ProjectReference Include="..\Q242_Valid_Anagram\Q242_Valid_Anagram.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
