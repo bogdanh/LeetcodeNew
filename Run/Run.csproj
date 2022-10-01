@@ -40,6 +40,8 @@
     <ProjectReference Include="..\Q_Missing_Plus_Two\Q_Missing_Plus_Two.csproj" />
     <ProjectReference Include="..\Q20_Valid_Parentheses\Q20_Valid_Parentheses.csproj" />
     <ProjectReference Include="..\Q242_Valid_Anagram\Q242_Valid_Anagram.csproj" />
+    <ProjectReference Include="..\Formation\21_Days_Challenge\Day_1_Remove_Delete_Middle_Node_Q2095\Day_1_Remove_Delete_Middle_Node_Q2095.csproj" />
+    <ProjectReference Include="..\Formation\21_Days_Challenge\Day_2_Spiral_Traversal_Q54\Day_2_Spiral_Traversal_Q54.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

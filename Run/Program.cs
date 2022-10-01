@@ -1,7 +1,17 @@
 ﻿namespace Run {
     class Program {
         static void Main(string[] args) {
+
+            #region Formation
+
+            //Formation.DeleteMiddleNode.Run(); // Day 1
+            Formation.SpiralTraversal.Run(); // Day 2
+
+            #endregion Formation
+
+            #region Misc
             //Q_Missing_Plus_Two.Q_Missing_Plus_Two.Run();
+            #endregion Misc
 
             // Q10_Regular_Expression_Matching.Q10_Regular_Expression_Matching.Run();
             // Q20_Valid_Parentheses.Q20_Valid_Parentheses.Run();
@@ -17,7 +27,7 @@
             // Q211_Design_Add_Search_Words_Data_Structure.Q211_Design_Add_Search_Words_Data_Structure.Run();
             // Q215_Kth_Largest_Element.Q215_Kth_Largest_Element.Run();
             // Q236_Lowest_Common_Ancestor_of_a_Binary_Tree.Q236_Lowest_Common_Ancestor_of_a_Binary_Tree.Run();
-            Q242_Valid_Anagram.Q242_Valid_Anagram.Run();
+            // Q242_Valid_Anagram.Q242_Valid_Anagram.Run();
             // Q253_Meeting_Room_II.Q253_Meeting_Room_II.Run();
             // Q269_Alien_Dictionary.Q269_Alien_Dictionary.Run();
             // Q273_Integer_To_English_Words.Q273_Integer_To_English_Words.Run();

@@ -15,6 +15,32 @@
           "bin/placeholder/Counting_Sort.dll": {}
         }
       },
+      "Day_1_Remove_Delete_Middle_Node_Q2095/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Library": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Day_1_Remove_Delete_Middle_Node_Q2095.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Day_1_Remove_Delete_Middle_Node_Q2095.dll": {}
+        }
+      },
+      "Day_2_Spiral_Traversal_Q54/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Library": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Day_2_Spiral_Traversal_Q54.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Day_2_Spiral_Traversal_Q54.dll": {}
+        }
+      },
       "Library/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -466,6 +492,16 @@
       "path": "../Counting_Sort/Counting_Sort.csproj",
       "msbuildProject": "../Counting_Sort/Counting_Sort.csproj"
     },
+    "Day_1_Remove_Delete_Middle_Node_Q2095/1.0.0": {
+      "type": "project",
+      "path": "../Formation/21_Days_Challenge/Day_1_Remove_Delete_Middle_Node_Q2095/Day_1_Remove_Delete_Middle_Node_Q2095.csproj",
+      "msbuildProject": "../Formation/21_Days_Challenge/Day_1_Remove_Delete_Middle_Node_Q2095/Day_1_Remove_Delete_Middle_Node_Q2095.csproj"
+    },
+    "Day_2_Spiral_Traversal_Q54/1.0.0": {
+      "type": "project",
+      "path": "../Formation/21_Days_Challenge/Day_2_Spiral_Traversal_Q54/Day_2_Spiral_Traversal_Q54.csproj",
+      "msbuildProject": "../Formation/21_Days_Challenge/Day_2_Spiral_Traversal_Q54/Day_2_Spiral_Traversal_Q54.csproj"
+    },
     "Library/1.0.0": {
       "type": "project",
       "path": "../Library/Library.csproj",
@@ -660,6 +696,8 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "Counting_Sort >= 1.0.0",
+      "Day_1_Remove_Delete_Middle_Node_Q2095 >= 1.0.0",
+      "Day_2_Spiral_Traversal_Q54 >= 1.0.0",
       "Library >= 1.0.0",
       "Q10_Regular_Expression_Matching >= 1.0.0",
       "Q1249_Minimum_Remove_To_Make_Valid_Parentheses >= 1.0.0",
@@ -727,6 +765,12 @@
           "projectReferences": {
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Counting_Sort/Counting_Sort.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Counting_Sort/Counting_Sort.csproj"
+            },
+            "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_1_Remove_Delete_Middle_Node_Q2095/Day_1_Remove_Delete_Middle_Node_Q2095.csproj": {
+              "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_1_Remove_Delete_Middle_Node_Q2095/Day_1_Remove_Delete_Middle_Node_Q2095.csproj"
+            },
+            "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_2_Spiral_Traversal_Q54/Day_2_Spiral_Traversal_Q54.csproj": {
+              "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_2_Spiral_Traversal_Q54/Day_2_Spiral_Traversal_Q54.csproj"
             },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Library/Library.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Library/Library.csproj"
