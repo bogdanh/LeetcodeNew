@@ -43,6 +43,7 @@
     <ProjectReference Include="..\Formation\21_Days_Challenge\Day_1_Remove_Delete_Middle_Node_Q2095\Day_1_Remove_Delete_Middle_Node_Q2095.csproj" />
     <ProjectReference Include="..\Formation\21_Days_Challenge\Day_2_Spiral_Traversal_Q54\Day_2_Spiral_Traversal_Q54.csproj" />
     <ProjectReference Include="..\Formation\21_Days_Challenge\Day_3_Reverse_Groups_of_K_Nodes_Q25\Day_3_Reverse_Groups_of_K_Nodes_Q25.csproj" />
+    <ProjectReference Include="..\Formation\21_Days_Challenge\Day_4_Toeplitz_Matrix_Q766\Day_4_Toeplitz_Matrix_Q766.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

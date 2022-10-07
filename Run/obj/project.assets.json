@@ -54,6 +54,19 @@
           "bin/placeholder/Day_3_Reverse_Groups_of_K_Nodes_Q25.dll": {}
         }
       },
+      "Day_4_Toeplitz_Matrix_Q766/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Library": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Day_4_Toeplitz_Matrix_Q766.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Day_4_Toeplitz_Matrix_Q766.dll": {}
+        }
+      },
       "Library/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -520,6 +533,11 @@
       "path": "../Formation/21_Days_Challenge/Day_3_Reverse_Groups_of_K_Nodes_Q25/Day_3_Reverse_Groups_of_K_Nodes_Q25.csproj",
       "msbuildProject": "../Formation/21_Days_Challenge/Day_3_Reverse_Groups_of_K_Nodes_Q25/Day_3_Reverse_Groups_of_K_Nodes_Q25.csproj"
     },
+    "Day_4_Toeplitz_Matrix_Q766/1.0.0": {
+      "type": "project",
+      "path": "../Formation/21_Days_Challenge/Day_4_Toeplitz_Matrix_Q766/Day_4_Toeplitz_Matrix_Q766.csproj",
+      "msbuildProject": "../Formation/21_Days_Challenge/Day_4_Toeplitz_Matrix_Q766/Day_4_Toeplitz_Matrix_Q766.csproj"
+    },
     "Library/1.0.0": {
       "type": "project",
       "path": "../Library/Library.csproj",
@@ -717,6 +735,7 @@
       "Day_1_Remove_Delete_Middle_Node_Q2095 >= 1.0.0",
       "Day_2_Spiral_Traversal_Q54 >= 1.0.0",
       "Day_3_Reverse_Groups_of_K_Nodes_Q25 >= 1.0.0",
+      "Day_4_Toeplitz_Matrix_Q766 >= 1.0.0",
       "Library >= 1.0.0",
       "Q10_Regular_Expression_Matching >= 1.0.0",
       "Q1249_Minimum_Remove_To_Make_Valid_Parentheses >= 1.0.0",
@@ -793,6 +812,9 @@
             },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_3_Reverse_Groups_of_K_Nodes_Q25/Day_3_Reverse_Groups_of_K_Nodes_Q25.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_3_Reverse_Groups_of_K_Nodes_Q25/Day_3_Reverse_Groups_of_K_Nodes_Q25.csproj"
+            },
+            "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_4_Toeplitz_Matrix_Q766/Day_4_Toeplitz_Matrix_Q766.csproj": {
+              "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_4_Toeplitz_Matrix_Q766/Day_4_Toeplitz_Matrix_Q766.csproj"
             },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Library/Library.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Library/Library.csproj"
