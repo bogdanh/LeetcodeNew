@@ -4,12 +4,13 @@
 
             #region Formation
 
-            // Formation.DeleteMiddleNode.Run(); // Day 1
-            // Formation.SpiralTraversal.Run();  // Day 2
-            // Formation.ReverseKGroup.Run();    // Day 3
-            // Formation.ToeplitzMatrix.Run();   // Day 4
-            // Formation.MonotonicMatrix.Run();  // Day 5 
-            Formation.SearchInMatrix.Run();   // Day 6 
+            // Formation.DeleteMiddleNode.Run();  // Day 1
+            // Formation.SpiralTraversal.Run();   // Day 2
+            // Formation.ReverseKGroup.Run();     // Day 3
+            // Formation.ToeplitzMatrix.Run();    // Day 4
+            // Formation.MonotonicMatrix.Run();   // Day 5 
+            // Formation.SearchInMatrix.Run();    // Day 6
+            Formation.PalindromeAnagram.Run(); // Day 7
 
             #endregion Formation
 

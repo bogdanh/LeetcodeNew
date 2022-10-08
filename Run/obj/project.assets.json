@@ -93,6 +93,19 @@
           "bin/placeholder/Day_6_Search_In_Matrix_Q240.dll": {}
         }
       },
+      "Day_7_Palindrome_Anagram/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Library": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Day_7_Palindrome_Anagram.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Day_7_Palindrome_Anagram.dll": {}
+        }
+      },
       "Library/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -574,6 +587,11 @@
       "path": "../Formation/21_Days_Challenge/Day_6_Search_In_Matrix_Q240/Day_6_Search_In_Matrix_Q240.csproj",
       "msbuildProject": "../Formation/21_Days_Challenge/Day_6_Search_In_Matrix_Q240/Day_6_Search_In_Matrix_Q240.csproj"
     },
+    "Day_7_Palindrome_Anagram/1.0.0": {
+      "type": "project",
+      "path": "../Formation/21_Days_Challenge/Day_7_Palindrome_Anagram/Day_7_Palindrome_Anagram.csproj",
+      "msbuildProject": "../Formation/21_Days_Challenge/Day_7_Palindrome_Anagram/Day_7_Palindrome_Anagram.csproj"
+    },
     "Library/1.0.0": {
       "type": "project",
       "path": "../Library/Library.csproj",
@@ -774,6 +792,7 @@
       "Day_4_Toeplitz_Matrix_Q766 >= 1.0.0",
       "Day_5_Monotonic_Matrix >= 1.0.0",
       "Day_6_Search_In_Matrix_Q240 >= 1.0.0",
+      "Day_7_Palindrome_Anagram >= 1.0.0",
       "Library >= 1.0.0",
       "Q10_Regular_Expression_Matching >= 1.0.0",
       "Q1249_Minimum_Remove_To_Make_Valid_Parentheses >= 1.0.0",
@@ -859,6 +878,9 @@
             },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_6_Search_In_Matrix_Q240/Day_6_Search_In_Matrix_Q240.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_6_Search_In_Matrix_Q240/Day_6_Search_In_Matrix_Q240.csproj"
+            },
+            "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_7_Palindrome_Anagram/Day_7_Palindrome_Anagram.csproj": {
+              "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_7_Palindrome_Anagram/Day_7_Palindrome_Anagram.csproj"
             },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Library/Library.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Library/Library.csproj"

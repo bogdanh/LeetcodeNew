@@ -396,6 +396,62 @@
         }
       }
     },
+    "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_7_Palindrome_Anagram/Day_7_Palindrome_Anagram.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_7_Palindrome_Anagram/Day_7_Palindrome_Anagram.csproj",
+        "projectName": "Day_7_Palindrome_Anagram",
+        "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_7_Palindrome_Anagram/Day_7_Palindrome_Anagram.csproj",
+        "packagesPath": "/Users/Bogdan/.nuget/packages/",
+        "outputPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_7_Palindrome_Anagram/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Bogdan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Library/Library.csproj": {
+                "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Library/Library.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Library/Library.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -2498,6 +2554,9 @@
               },
               "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_6_Search_In_Matrix_Q240/Day_6_Search_In_Matrix_Q240.csproj": {
                 "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_6_Search_In_Matrix_Q240/Day_6_Search_In_Matrix_Q240.csproj"
+              },
+              "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_7_Palindrome_Anagram/Day_7_Palindrome_Anagram.csproj": {
+                "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_7_Palindrome_Anagram/Day_7_Palindrome_Anagram.csproj"
               },
               "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Library/Library.csproj": {
                 "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Library/Library.csproj"
