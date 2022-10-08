@@ -67,6 +67,32 @@
           "bin/placeholder/Day_4_Toeplitz_Matrix_Q766.dll": {}
         }
       },
+      "Day_5_Monotonic_Matrix/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Library": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Day_5_Monotonic_Matrix.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Day_5_Monotonic_Matrix.dll": {}
+        }
+      },
+      "Day_6_Search_In_Matrix_Q240/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Library": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Day_6_Search_In_Matrix_Q240.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Day_6_Search_In_Matrix_Q240.dll": {}
+        }
+      },
       "Library/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -538,6 +564,16 @@
       "path": "../Formation/21_Days_Challenge/Day_4_Toeplitz_Matrix_Q766/Day_4_Toeplitz_Matrix_Q766.csproj",
       "msbuildProject": "../Formation/21_Days_Challenge/Day_4_Toeplitz_Matrix_Q766/Day_4_Toeplitz_Matrix_Q766.csproj"
     },
+    "Day_5_Monotonic_Matrix/1.0.0": {
+      "type": "project",
+      "path": "../Formation/21_Days_Challenge/Day_5_Monotonic_Matrix/Day_5_Monotonic_Matrix.csproj",
+      "msbuildProject": "../Formation/21_Days_Challenge/Day_5_Monotonic_Matrix/Day_5_Monotonic_Matrix.csproj"
+    },
+    "Day_6_Search_In_Matrix_Q240/1.0.0": {
+      "type": "project",
+      "path": "../Formation/21_Days_Challenge/Day_6_Search_In_Matrix_Q240/Day_6_Search_In_Matrix_Q240.csproj",
+      "msbuildProject": "../Formation/21_Days_Challenge/Day_6_Search_In_Matrix_Q240/Day_6_Search_In_Matrix_Q240.csproj"
+    },
     "Library/1.0.0": {
       "type": "project",
       "path": "../Library/Library.csproj",
@@ -736,6 +772,8 @@
       "Day_2_Spiral_Traversal_Q54 >= 1.0.0",
       "Day_3_Reverse_Groups_of_K_Nodes_Q25 >= 1.0.0",
       "Day_4_Toeplitz_Matrix_Q766 >= 1.0.0",
+      "Day_5_Monotonic_Matrix >= 1.0.0",
+      "Day_6_Search_In_Matrix_Q240 >= 1.0.0",
       "Library >= 1.0.0",
       "Q10_Regular_Expression_Matching >= 1.0.0",
       "Q1249_Minimum_Remove_To_Make_Valid_Parentheses >= 1.0.0",
@@ -815,6 +853,12 @@
             },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_4_Toeplitz_Matrix_Q766/Day_4_Toeplitz_Matrix_Q766.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_4_Toeplitz_Matrix_Q766/Day_4_Toeplitz_Matrix_Q766.csproj"
+            },
+            "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_5_Monotonic_Matrix/Day_5_Monotonic_Matrix.csproj": {
+              "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_5_Monotonic_Matrix/Day_5_Monotonic_Matrix.csproj"
+            },
+            "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_6_Search_In_Matrix_Q240/Day_6_Search_In_Matrix_Q240.csproj": {
+              "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_6_Search_In_Matrix_Q240/Day_6_Search_In_Matrix_Q240.csproj"
             },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Library/Library.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Library/Library.csproj"

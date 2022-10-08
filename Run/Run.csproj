@@ -44,6 +44,8 @@
     <ProjectReference Include="..\Formation\21_Days_Challenge\Day_2_Spiral_Traversal_Q54\Day_2_Spiral_Traversal_Q54.csproj" />
     <ProjectReference Include="..\Formation\21_Days_Challenge\Day_3_Reverse_Groups_of_K_Nodes_Q25\Day_3_Reverse_Groups_of_K_Nodes_Q25.csproj" />
     <ProjectReference Include="..\Formation\21_Days_Challenge\Day_4_Toeplitz_Matrix_Q766\Day_4_Toeplitz_Matrix_Q766.csproj" />
+    <ProjectReference Include="..\Formation\21_Days_Challenge\Day_5_Monotonic_Matrix\Day_5_Monotonic_Matrix.csproj" />
+    <ProjectReference Include="..\Formation\21_Days_Challenge\Day_6_Search_In_Matrix_Q240\Day_6_Search_In_Matrix_Q240.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
