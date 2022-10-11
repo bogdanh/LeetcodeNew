@@ -47,6 +47,7 @@
     <ProjectReference Include="..\Formation\21_Days_Challenge\Day_5_Monotonic_Matrix\Day_5_Monotonic_Matrix.csproj" />
     <ProjectReference Include="..\Formation\21_Days_Challenge\Day_6_Search_In_Matrix_Q240\Day_6_Search_In_Matrix_Q240.csproj" />
     <ProjectReference Include="..\Formation\21_Days_Challenge\Day_7_Palindrome_Anagram\Day_7_Palindrome_Anagram.csproj" />
+    <ProjectReference Include="..\Formation\21_Days_Challenge\Day_8_TreeToList_Q426\Day_8_TreeToList_Q426.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
