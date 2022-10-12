@@ -11,7 +11,8 @@
             // Formation.MonotonicMatrix.Run();        // Day 5 
             // Formation.SearchInMatrix.Run();         // Day 6
             // Formation.PalindromeAnagram.Run();      // Day 7
-            Formation.TreeToDoubleLinkedList.Run(); // Day 8
+            // Formation.TreeToDoubleLinkedList.Run(); // Day 8
+            Formation.BinarySearchArray.Run();      // Day 9
 
             #endregion Formation
 
