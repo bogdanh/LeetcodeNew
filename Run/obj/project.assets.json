@@ -15,6 +15,19 @@
           "bin/placeholder/Counting_Sort.dll": {}
         }
       },
+      "Day_10_Merge_Sort/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Library": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Day_10_Merge_Sort.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Day_10_Merge_Sort.dll": {}
+        }
+      },
       "Day_1_Remove_Delete_Middle_Node_Q2095/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -583,6 +596,11 @@
       "path": "../Counting_Sort/Counting_Sort.csproj",
       "msbuildProject": "../Counting_Sort/Counting_Sort.csproj"
     },
+    "Day_10_Merge_Sort/1.0.0": {
+      "type": "project",
+      "path": "../Formation/21_Days_Challenge/Day_10_Merge_Sort/Day_10_Merge_Sort.csproj",
+      "msbuildProject": "../Formation/21_Days_Challenge/Day_10_Merge_Sort/Day_10_Merge_Sort.csproj"
+    },
     "Day_1_Remove_Delete_Middle_Node_Q2095/1.0.0": {
       "type": "project",
       "path": "../Formation/21_Days_Challenge/Day_1_Remove_Delete_Middle_Node_Q2095/Day_1_Remove_Delete_Middle_Node_Q2095.csproj",
@@ -822,6 +840,7 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "Counting_Sort >= 1.0.0",
+      "Day_10_Merge_Sort >= 1.0.0",
       "Day_1_Remove_Delete_Middle_Node_Q2095 >= 1.0.0",
       "Day_2_Spiral_Traversal_Q54 >= 1.0.0",
       "Day_3_Reverse_Groups_of_K_Nodes_Q25 >= 1.0.0",
@@ -898,6 +917,9 @@
           "projectReferences": {
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Counting_Sort/Counting_Sort.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Counting_Sort/Counting_Sort.csproj"
+            },
+            "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_10_Merge_Sort/Day_10_Merge_Sort.csproj": {
+              "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_10_Merge_Sort/Day_10_Merge_Sort.csproj"
             },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_1_Remove_Delete_Middle_Node_Q2095/Day_1_Remove_Delete_Middle_Node_Q2095.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_1_Remove_Delete_Middle_Node_Q2095/Day_1_Remove_Delete_Middle_Node_Q2095.csproj"

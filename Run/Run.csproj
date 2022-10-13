@@ -49,6 +49,7 @@
     <ProjectReference Include="..\Formation\21_Days_Challenge\Day_7_Palindrome_Anagram\Day_7_Palindrome_Anagram.csproj" />
     <ProjectReference Include="..\Formation\21_Days_Challenge\Day_8_TreeToList_Q426\Day_8_TreeToList_Q426.csproj" />
     <ProjectReference Include="..\Formation\21_Days_Challenge\Day_9_BinarySearch_In_Array_Q704\Day_9_BinarySearch_In_Array_Q704.csproj" />
+    <ProjectReference Include="..\Formation\21_Days_Challenge\Day_10_Merge_Sort\Day_10_Merge_Sort.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
