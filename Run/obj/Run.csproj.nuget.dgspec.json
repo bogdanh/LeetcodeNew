@@ -116,6 +116,62 @@
         }
       }
     },
+    "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_11_Height_Of_Binary_Tree_Q104/Day_11_Height_Of_Binary_Tree_Q104.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_11_Height_Of_Binary_Tree_Q104/Day_11_Height_Of_Binary_Tree_Q104.csproj",
+        "projectName": "Day_11_Height_Of_Binary_Tree_Q104",
+        "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_11_Height_Of_Binary_Tree_Q104/Day_11_Height_Of_Binary_Tree_Q104.csproj",
+        "packagesPath": "/Users/Bogdan/.nuget/packages/",
+        "outputPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_11_Height_Of_Binary_Tree_Q104/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Bogdan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Library/Library.csproj": {
+                "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Library/Library.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_1_Remove_Delete_Middle_Node_Q2095/Day_1_Remove_Delete_Middle_Node_Q2095.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -2707,6 +2763,9 @@
               },
               "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_10_Merge_Sort/Day_10_Merge_Sort.csproj": {
                 "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_10_Merge_Sort/Day_10_Merge_Sort.csproj"
+              },
+              "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_11_Height_Of_Binary_Tree_Q104/Day_11_Height_Of_Binary_Tree_Q104.csproj": {
+                "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_11_Height_Of_Binary_Tree_Q104/Day_11_Height_Of_Binary_Tree_Q104.csproj"
               },
               "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_1_Remove_Delete_Middle_Node_Q2095/Day_1_Remove_Delete_Middle_Node_Q2095.csproj": {
                 "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_1_Remove_Delete_Middle_Node_Q2095/Day_1_Remove_Delete_Middle_Node_Q2095.csproj"

@@ -28,6 +28,19 @@
           "bin/placeholder/Day_10_Merge_Sort.dll": {}
         }
       },
+      "Day_11_Height_Of_Binary_Tree_Q104/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Library": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Day_11_Height_Of_Binary_Tree_Q104.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Day_11_Height_Of_Binary_Tree_Q104.dll": {}
+        }
+      },
       "Day_1_Remove_Delete_Middle_Node_Q2095/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -601,6 +614,11 @@
       "path": "../Formation/21_Days_Challenge/Day_10_Merge_Sort/Day_10_Merge_Sort.csproj",
       "msbuildProject": "../Formation/21_Days_Challenge/Day_10_Merge_Sort/Day_10_Merge_Sort.csproj"
     },
+    "Day_11_Height_Of_Binary_Tree_Q104/1.0.0": {
+      "type": "project",
+      "path": "../Formation/21_Days_Challenge/Day_11_Height_Of_Binary_Tree_Q104/Day_11_Height_Of_Binary_Tree_Q104.csproj",
+      "msbuildProject": "../Formation/21_Days_Challenge/Day_11_Height_Of_Binary_Tree_Q104/Day_11_Height_Of_Binary_Tree_Q104.csproj"
+    },
     "Day_1_Remove_Delete_Middle_Node_Q2095/1.0.0": {
       "type": "project",
       "path": "../Formation/21_Days_Challenge/Day_1_Remove_Delete_Middle_Node_Q2095/Day_1_Remove_Delete_Middle_Node_Q2095.csproj",
@@ -841,6 +859,7 @@
     "net6.0": [
       "Counting_Sort >= 1.0.0",
       "Day_10_Merge_Sort >= 1.0.0",
+      "Day_11_Height_Of_Binary_Tree_Q104 >= 1.0.0",
       "Day_1_Remove_Delete_Middle_Node_Q2095 >= 1.0.0",
       "Day_2_Spiral_Traversal_Q54 >= 1.0.0",
       "Day_3_Reverse_Groups_of_K_Nodes_Q25 >= 1.0.0",
@@ -920,6 +939,9 @@
             },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_10_Merge_Sort/Day_10_Merge_Sort.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_10_Merge_Sort/Day_10_Merge_Sort.csproj"
+            },
+            "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_11_Height_Of_Binary_Tree_Q104/Day_11_Height_Of_Binary_Tree_Q104.csproj": {
+              "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_11_Height_Of_Binary_Tree_Q104/Day_11_Height_Of_Binary_Tree_Q104.csproj"
             },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_1_Remove_Delete_Middle_Node_Q2095/Day_1_Remove_Delete_Middle_Node_Q2095.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_1_Remove_Delete_Middle_Node_Q2095/Day_1_Remove_Delete_Middle_Node_Q2095.csproj"

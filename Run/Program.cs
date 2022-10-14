@@ -13,7 +13,8 @@
             // Formation.PalindromeAnagram.Run();      // Day  7
             // Formation.TreeToDoubleLinkedList.Run(); // Day  8
             // Formation.BinarySearchArray.Run();      // Day  9
-            Formation.MergeSort.Run();              // Day 10
+            // Formation.MergeSort.Run();              // Day 10
+            Formation.BinaryTreeHeight.Run();       // Day 11
 
             #endregion Formation
 
