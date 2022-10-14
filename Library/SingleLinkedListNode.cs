@@ -7,6 +7,7 @@ namespace Library {
     public class SingleLinkedListNode {
         public int Val { get; set; }
         public SingleLinkedListNode? Next { get; set; } = null;
+        public SingleLinkedListNode? Sublist { get; set; } = null;
 
         public SingleLinkedListNode() {
             Val = 0;
@@ -16,6 +17,12 @@ namespace Library {
         public SingleLinkedListNode(int val, SingleLinkedListNode next) {
             Val = val;
             Next = next;
+        }
+        
+        public SingleLinkedListNode(int val, SingleLinkedListNode next, SingleLinkedListNode sublist) {
+            Val = val;
+            Next = next;
+            Sublist = sublist;
         }
 
         public void Print() {

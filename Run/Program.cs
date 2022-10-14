@@ -14,7 +14,8 @@
             // Formation.TreeToDoubleLinkedList.Run(); // Day  8
             // Formation.BinarySearchArray.Run();      // Day  9
             // Formation.MergeSort.Run();              // Day 10
-            Formation.BinaryTreeHeight.Run();       // Day 11
+            // Formation.BinaryTreeHeight.Run();       // Day 11
+            Formation.FLattenSublist.Run();         // Day 12
 
             #endregion Formation
 
