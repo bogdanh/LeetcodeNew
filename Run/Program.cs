@@ -15,7 +15,8 @@
             // Formation.BinarySearchArray.Run();      // Day  9
             // Formation.MergeSort.Run();              // Day 10
             // Formation.BinaryTreeHeight.Run();       // Day 11
-            Formation.FLattenSublist.Run();         // Day 12
+            // Formation.FLattenSublist.Run();         // Day 12
+            Formation.MazeSolver.Run();             // Day 13
 
             #endregion Formation
 

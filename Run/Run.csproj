@@ -52,6 +52,7 @@
     <ProjectReference Include="..\Formation\21_Days_Challenge\Day_10_Merge_Sort\Day_10_Merge_Sort.csproj" />
     <ProjectReference Include="..\Formation\21_Days_Challenge\Day_11_Height_Of_Binary_Tree_Q104\Day_11_Height_Of_Binary_Tree_Q104.csproj" />
     <ProjectReference Include="..\Formation\21_Days_Challenge\Day_12_Flatten_Sublist\Day_12_Flatten_Sublist.csproj" />
+    <ProjectReference Include="..\Formation\21_Days_Challenge\Day_13_Maze_Solver\Day_13_Maze_Solver.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
