@@ -67,6 +67,19 @@
           "bin/placeholder/Day_13_Maze_Solver.dll": {}
         }
       },
+      "Day_14_GeneratePassword/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Library": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Day_14_GeneratePassword.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Day_14_GeneratePassword.dll": {}
+        }
+      },
       "Day_1_Remove_Delete_Middle_Node_Q2095/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -655,6 +668,11 @@
       "path": "../Formation/21_Days_Challenge/Day_13_Maze_Solver/Day_13_Maze_Solver.csproj",
       "msbuildProject": "../Formation/21_Days_Challenge/Day_13_Maze_Solver/Day_13_Maze_Solver.csproj"
     },
+    "Day_14_GeneratePassword/1.0.0": {
+      "type": "project",
+      "path": "../Formation/21_Days_Challenge/Day_14_GeneratePassword/Day_14_GeneratePassword.csproj",
+      "msbuildProject": "../Formation/21_Days_Challenge/Day_14_GeneratePassword/Day_14_GeneratePassword.csproj"
+    },
     "Day_1_Remove_Delete_Middle_Node_Q2095/1.0.0": {
       "type": "project",
       "path": "../Formation/21_Days_Challenge/Day_1_Remove_Delete_Middle_Node_Q2095/Day_1_Remove_Delete_Middle_Node_Q2095.csproj",
@@ -898,6 +916,7 @@
       "Day_11_Height_Of_Binary_Tree_Q104 >= 1.0.0",
       "Day_12_Flatten_Sublist >= 1.0.0",
       "Day_13_Maze_Solver >= 1.0.0",
+      "Day_14_GeneratePassword >= 1.0.0",
       "Day_1_Remove_Delete_Middle_Node_Q2095 >= 1.0.0",
       "Day_2_Spiral_Traversal_Q54 >= 1.0.0",
       "Day_3_Reverse_Groups_of_K_Nodes_Q25 >= 1.0.0",
@@ -986,6 +1005,9 @@
             },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_13_Maze_Solver/Day_13_Maze_Solver.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_13_Maze_Solver/Day_13_Maze_Solver.csproj"
+            },
+            "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_14_GeneratePassword/Day_14_GeneratePassword.csproj": {
+              "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_14_GeneratePassword/Day_14_GeneratePassword.csproj"
             },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_1_Remove_Delete_Middle_Node_Q2095/Day_1_Remove_Delete_Middle_Node_Q2095.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_1_Remove_Delete_Middle_Node_Q2095/Day_1_Remove_Delete_Middle_Node_Q2095.csproj"
