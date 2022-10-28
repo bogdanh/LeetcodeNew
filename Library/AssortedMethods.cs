@@ -30,19 +30,36 @@ namespace Library {
             Console.WriteLine(sb.ToString());
         }
         
-        public static void PrintStringArray(string[] strings) {
+        public static void PrintChar2DArray(char[][] arr) {
             StringBuilder sb = new StringBuilder();
-            sb.Append("[");
+            
+            foreach (char[] a in arr) {
+                sb.Append("[");
+                sb.Append(string.Join(", ", a));
+                sb.AppendLine("]");
+            }
+
+            Console.WriteLine(sb.ToString());
+        }
+
+        public static void PrintStringArray(string[] strings, bool? newLine = false) {
+            StringBuilder sb = new StringBuilder();
+            
+            if (!newLine.GetValueOrDefault(false)) {
+                sb.Append("[");
+            }
 
             foreach (string str in strings) {
-                sb.Append($"{str}, ");
+                _ = newLine.GetValueOrDefault(false) ? sb.AppendLine($"{str}, ") : sb.Append($"{str}, ");
             }
 
             if (sb.Length > 1) {
                 sb.Length = sb.Length - 2;
             }
 
-            sb.Append("]");
+            if (!newLine.GetValueOrDefault(false)) {
+                sb.Append("]");
+            }
 
             Console.WriteLine(sb.ToString());
         }

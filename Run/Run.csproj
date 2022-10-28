@@ -54,6 +54,7 @@
     <ProjectReference Include="..\Formation\21_Days_Challenge\Day_12_Flatten_Sublist\Day_12_Flatten_Sublist.csproj" />
     <ProjectReference Include="..\Formation\21_Days_Challenge\Day_13_Maze_Solver\Day_13_Maze_Solver.csproj" />
     <ProjectReference Include="..\Formation\21_Days_Challenge\Day_14_GeneratePassword\Day_14_GeneratePassword.csproj" />
+    <ProjectReference Include="..\Formation\21_Days_Challenge\Day_15_N_Queen\Day_15_N_Queen.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
