@@ -93,6 +93,19 @@
           "bin/placeholder/Day_15_N_Queen.dll": {}
         }
       },
+      "Day_16_DaysToHigherTemp/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Library": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Day_16_DaysToHigherTemp.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Day_16_DaysToHigherTemp.dll": {}
+        }
+      },
       "Day_1_Remove_Delete_Middle_Node_Q2095/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -691,6 +704,11 @@
       "path": "../Formation/21_Days_Challenge/Day_15_N_Queen/Day_15_N_Queen.csproj",
       "msbuildProject": "../Formation/21_Days_Challenge/Day_15_N_Queen/Day_15_N_Queen.csproj"
     },
+    "Day_16_DaysToHigherTemp/1.0.0": {
+      "type": "project",
+      "path": "../Formation/21_Days_Challenge/Day_16_DaysToHigherTemp/Day_16_DaysToHigherTemp.csproj",
+      "msbuildProject": "../Formation/21_Days_Challenge/Day_16_DaysToHigherTemp/Day_16_DaysToHigherTemp.csproj"
+    },
     "Day_1_Remove_Delete_Middle_Node_Q2095/1.0.0": {
       "type": "project",
       "path": "../Formation/21_Days_Challenge/Day_1_Remove_Delete_Middle_Node_Q2095/Day_1_Remove_Delete_Middle_Node_Q2095.csproj",
@@ -936,6 +954,7 @@
       "Day_13_Maze_Solver >= 1.0.0",
       "Day_14_GeneratePassword >= 1.0.0",
       "Day_15_N_Queen >= 1.0.0",
+      "Day_16_DaysToHigherTemp >= 1.0.0",
       "Day_1_Remove_Delete_Middle_Node_Q2095 >= 1.0.0",
       "Day_2_Spiral_Traversal_Q54 >= 1.0.0",
       "Day_3_Reverse_Groups_of_K_Nodes_Q25 >= 1.0.0",
@@ -1030,6 +1049,9 @@
             },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_15_N_Queen/Day_15_N_Queen.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_15_N_Queen/Day_15_N_Queen.csproj"
+            },
+            "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_16_DaysToHigherTemp/Day_16_DaysToHigherTemp.csproj": {
+              "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_16_DaysToHigherTemp/Day_16_DaysToHigherTemp.csproj"
             },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_1_Remove_Delete_Middle_Node_Q2095/Day_1_Remove_Delete_Middle_Node_Q2095.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_1_Remove_Delete_Middle_Node_Q2095/Day_1_Remove_Delete_Middle_Node_Q2095.csproj"
