@@ -56,6 +56,7 @@
     <ProjectReference Include="..\Formation\21_Days_Challenge\Day_14_GeneratePassword\Day_14_GeneratePassword.csproj" />
     <ProjectReference Include="..\Formation\21_Days_Challenge\Day_15_N_Queen\Day_15_N_Queen.csproj" />
     <ProjectReference Include="..\Formation\21_Days_Challenge\Day_16_DaysToHigherTemp\Day_16_DaysToHigherTemp.csproj" />
+    <ProjectReference Include="..\Formation\21_Days_Challenge\Day_17_Minimum_Sum_Triangle\Day_17_Minimum_Sum_Triangle.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
