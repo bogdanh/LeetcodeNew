@@ -20,7 +20,8 @@
             // Formation.GeneratePassword.Run();       // Day 14
             // Formation.NQueen.Run();                 // Day 15
             // Formation.DaysToHigherTemp.Run();       // Day 16
-            Formation.MinimumSumTriangle.Run();     // Day 17
+            // Formation.MinimumSumTriangle.Run();     // Day 17
+            Formation.KClosestPoints.Run();         // Day 18
 
             #endregion Formation
 

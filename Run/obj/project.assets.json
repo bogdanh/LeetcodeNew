@@ -119,6 +119,19 @@
           "bin/placeholder/Day_17_Minimum_Sum_Triangle.dll": {}
         }
       },
+      "Day_18_K_Closest_Points/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Library": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Day_18_K_Closest_Points.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Day_18_K_Closest_Points.dll": {}
+        }
+      },
       "Day_1_Remove_Delete_Middle_Node_Q2095/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -727,6 +740,11 @@
       "path": "../Formation/21_Days_Challenge/Day_17_Minimum_Sum_Triangle/Day_17_Minimum_Sum_Triangle.csproj",
       "msbuildProject": "../Formation/21_Days_Challenge/Day_17_Minimum_Sum_Triangle/Day_17_Minimum_Sum_Triangle.csproj"
     },
+    "Day_18_K_Closest_Points/1.0.0": {
+      "type": "project",
+      "path": "../Formation/21_Days_Challenge/Day_18_K_Closest_Points/Day_18_K_Closest_Points.csproj",
+      "msbuildProject": "../Formation/21_Days_Challenge/Day_18_K_Closest_Points/Day_18_K_Closest_Points.csproj"
+    },
     "Day_1_Remove_Delete_Middle_Node_Q2095/1.0.0": {
       "type": "project",
       "path": "../Formation/21_Days_Challenge/Day_1_Remove_Delete_Middle_Node_Q2095/Day_1_Remove_Delete_Middle_Node_Q2095.csproj",
@@ -974,6 +992,7 @@
       "Day_15_N_Queen >= 1.0.0",
       "Day_16_DaysToHigherTemp >= 1.0.0",
       "Day_17_Minimum_Sum_Triangle >= 1.0.0",
+      "Day_18_K_Closest_Points >= 1.0.0",
       "Day_1_Remove_Delete_Middle_Node_Q2095 >= 1.0.0",
       "Day_2_Spiral_Traversal_Q54 >= 1.0.0",
       "Day_3_Reverse_Groups_of_K_Nodes_Q25 >= 1.0.0",
@@ -1074,6 +1093,9 @@
             },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_17_Minimum_Sum_Triangle/Day_17_Minimum_Sum_Triangle.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_17_Minimum_Sum_Triangle/Day_17_Minimum_Sum_Triangle.csproj"
+            },
+            "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_18_K_Closest_Points/Day_18_K_Closest_Points.csproj": {
+              "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_18_K_Closest_Points/Day_18_K_Closest_Points.csproj"
             },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_1_Remove_Delete_Middle_Node_Q2095/Day_1_Remove_Delete_Middle_Node_Q2095.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_1_Remove_Delete_Middle_Node_Q2095/Day_1_Remove_Delete_Middle_Node_Q2095.csproj"
