@@ -21,7 +21,8 @@
             // Formation.NQueen.Run();                 // Day 15
             // Formation.DaysToHigherTemp.Run();       // Day 16
             // Formation.MinimumSumTriangle.Run();     // Day 17
-            Formation.KClosestPoints.Run();         // Day 18
+            // Formation.KClosestPoints.Run();         // Day 18
+            Formation.TextJustification.Run();      // Day 19
 
             #endregion Formation
 
