@@ -23,8 +23,8 @@
             // Formation.MinimumSumTriangle.Run();     // Day 17
             // Formation.KClosestPoints.Run();         // Day 18
             // Formation.TextJustification.Run();      // Day 19
-            Formation.MatrixToZero.Run();           // Day 20
-
+            // Formation.MatrixToZero.Run();           // Day 20
+            Formation.PositionsAreSafe.Run();       // Day 21
             #endregion Formation
 
             #region Misc

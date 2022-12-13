@@ -171,6 +171,19 @@
           "bin/placeholder/Day_20_Set_Matrix_To_Zero.dll": {}
         }
       },
+      "Day_21_Positions_Are_Safe/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Library": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Day_21_Positions_Are_Safe.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Day_21_Positions_Are_Safe.dll": {}
+        }
+      },
       "Day_2_Spiral_Traversal_Q54/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -786,6 +799,11 @@
       "path": "../Formation/21_Days_Challenge/Day_20_Set_Matrix_To_Zero/Day_20_Set_Matrix_To_Zero.csproj",
       "msbuildProject": "../Formation/21_Days_Challenge/Day_20_Set_Matrix_To_Zero/Day_20_Set_Matrix_To_Zero.csproj"
     },
+    "Day_21_Positions_Are_Safe/1.0.0": {
+      "type": "project",
+      "path": "../Formation/21_Days_Challenge/Day_21_Positions_Are_Safe/Day_21_Positions_Are_Safe.csproj",
+      "msbuildProject": "../Formation/21_Days_Challenge/Day_21_Positions_Are_Safe/Day_21_Positions_Are_Safe.csproj"
+    },
     "Day_2_Spiral_Traversal_Q54/1.0.0": {
       "type": "project",
       "path": "../Formation/21_Days_Challenge/Day_2_Spiral_Traversal_Q54/Day_2_Spiral_Traversal_Q54.csproj",
@@ -1032,6 +1050,7 @@
       "Day_19_Text_Justification >= 1.0.0",
       "Day_1_Remove_Delete_Middle_Node_Q2095 >= 1.0.0",
       "Day_20_Set_Matrix_To_Zero >= 1.0.0",
+      "Day_21_Positions_Are_Safe >= 1.0.0",
       "Day_2_Spiral_Traversal_Q54 >= 1.0.0",
       "Day_3_Reverse_Groups_of_K_Nodes_Q25 >= 1.0.0",
       "Day_4_Toeplitz_Matrix_Q766 >= 1.0.0",
@@ -1143,6 +1162,9 @@
             },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_20_Set_Matrix_To_Zero/Day_20_Set_Matrix_To_Zero.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_20_Set_Matrix_To_Zero/Day_20_Set_Matrix_To_Zero.csproj"
+            },
+            "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_21_Positions_Are_Safe/Day_21_Positions_Are_Safe.csproj": {
+              "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_21_Positions_Are_Safe/Day_21_Positions_Are_Safe.csproj"
             },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_2_Spiral_Traversal_Q54/Day_2_Spiral_Traversal_Q54.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_2_Spiral_Traversal_Q54/Day_2_Spiral_Traversal_Q54.csproj"
