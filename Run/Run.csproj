@@ -59,6 +59,7 @@
     <ProjectReference Include="..\Formation\21_Days_Challenge\Day_17_Minimum_Sum_Triangle\Day_17_Minimum_Sum_Triangle.csproj" />
     <ProjectReference Include="..\Formation\21_Days_Challenge\Day_18_K_Closest_Points\Day_18_K_Closest_Points.csproj" />
     <ProjectReference Include="..\Formation\21_Days_Challenge\Day_19_Text_Justification\Day_19_Text_Justification.csproj" />
+    <ProjectReference Include="..\Formation\21_Days_Challenge\Day_20_Set_Matrix_To_Zero\Day_20_Set_Matrix_To_Zero.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
