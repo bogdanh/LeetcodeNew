@@ -61,6 +61,7 @@
     <ProjectReference Include="..\Formation\21_Days_Challenge\Day_19_Text_Justification\Day_19_Text_Justification.csproj" />
     <ProjectReference Include="..\Formation\21_Days_Challenge\Day_20_Set_Matrix_To_Zero\Day_20_Set_Matrix_To_Zero.csproj" />
     <ProjectReference Include="..\Formation\21_Days_Challenge\Day_21_Positions_Are_Safe\Day_21_Positions_Are_Safe.csproj" />
+    <ProjectReference Include="..\Q91_Decode_Ways\Q91_Decode_Ways.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
