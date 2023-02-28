@@ -38,7 +38,7 @@
             // Q56_Merge_Intervals.Q56_Merge_Intervals.Run();
             // Q65_Valid_Number.Q65_Valid_Number.Run();
             // Q71_Simplify_Path.Q71_Simplify_Path.Run();
-            Q91_Decode_Ways.DecodeWays.Run();
+            // Q91_Decode_Ways.DecodeWays.Run();
             // Q152_Maximum_Product_Subarray.Q152_Maximum_Product_Subarray.Run();
             // Q173_Binary_Search_Tree_Iterator.Q173_Binary_Search_Tree_Iterator.Run();
             // Q189_Rotate_Array.Q189_Rotate_Array.Run();
@@ -70,6 +70,11 @@
 
             // Misc
             // Counting_Sort.Counting_Sort.Run();
+
+            // Design Patterns
+            // DesignPatterns.Factory.Factory.Run();
+            // DesignPatterns.Builder.Builder.Run();
+            DesignPatterns.Singleton.Singleton.Run();
         }
     }
 }
