@@ -63,9 +63,9 @@
     <ProjectReference Include="..\Formation\21_Days_Challenge\Day_21_Positions_Are_Safe\Day_21_Positions_Are_Safe.csproj" />
     <ProjectReference Include="..\Q91_Decode_Ways\Q91_Decode_Ways.csproj" />
     <ProjectReference Include="..\Misc\Find_Any_One_Duplicate\Find_Any_One_Duplicate.csproj" />
-    <ProjectReference Include="..\Design Patterns\Factory\Factory.csproj" />
-    <ProjectReference Include="..\Design Patterns\Builder\Builder.csproj" />
-    <ProjectReference Include="..\Design Patterns\Singleton\Singleton.csproj" />
+    <ProjectReference Include="..\Design Patterns\Creational\Factory\Factory.csproj" />
+    <ProjectReference Include="..\Design Patterns\Creational\Builder\Builder.csproj" />
+    <ProjectReference Include="..\Design Patterns\Creational\Singleton\Singleton.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

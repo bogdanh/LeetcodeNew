@@ -135,11 +135,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find_Any_One_Duplicate", "M
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Design Patterns", "Design Patterns", "{A059A18B-8F12-4AFA-A873-160FCE87B339}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory", "Design Patterns\Factory\Factory.csproj", "{6329D6FC-7BCD-477C-8F69-8C84697EC35D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory", "Design Patterns\Creational\Factory\Factory.csproj", "{6329D6FC-7BCD-477C-8F69-8C84697EC35D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Design Patterns\Builder\Builder.csproj", "{04B9930E-022A-4425-BFC8-5E4434E94024}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Design Patterns\Creational\Builder\Builder.csproj", "{04B9930E-022A-4425-BFC8-5E4434E94024}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Design Patterns\Singleton\Singleton.csproj", "{22DF60F2-E5FE-4A35-89C3-5EB577ABEAD8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Design Patterns\Creational\Singleton\Singleton.csproj", "{22DF60F2-E5FE-4A35-89C3-5EB577ABEAD8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
