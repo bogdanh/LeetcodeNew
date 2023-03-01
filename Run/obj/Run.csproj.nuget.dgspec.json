@@ -60,14 +60,14 @@
         }
       }
     },
-    "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Builder/Builder.csproj": {
+    "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Behavioural/Observer_PubSub/Observer_PubSub.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Builder/Builder.csproj",
-        "projectName": "Builder",
-        "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Builder/Builder.csproj",
+        "projectUniqueName": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Behavioural/Observer_PubSub/Observer_PubSub.csproj",
+        "projectName": "Observer_PubSub",
+        "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Behavioural/Observer_PubSub/Observer_PubSub.csproj",
         "packagesPath": "/Users/Bogdan/.nuget/packages/",
-        "outputPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Builder/obj/",
+        "outputPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Behavioural/Observer_PubSub/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/Bogdan/.nuget/NuGet/NuGet.Config"
@@ -112,14 +112,66 @@
         }
       }
     },
-    "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Factory/Factory.csproj": {
+    "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Creational/Builder/Builder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Factory/Factory.csproj",
-        "projectName": "Factory",
-        "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Factory/Factory.csproj",
+        "projectUniqueName": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Creational/Builder/Builder.csproj",
+        "projectName": "Builder",
+        "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Creational/Builder/Builder.csproj",
         "packagesPath": "/Users/Bogdan/.nuget/packages/",
-        "outputPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Factory/obj/",
+        "outputPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Creational/Builder/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Bogdan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Creational/Factory/Factory.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Creational/Factory/Factory.csproj",
+        "projectName": "Factory",
+        "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Creational/Factory/Factory.csproj",
+        "packagesPath": "/Users/Bogdan/.nuget/packages/",
+        "outputPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Creational/Factory/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/Bogdan/.nuget/NuGet/NuGet.Config"
@@ -168,14 +220,14 @@
         }
       }
     },
-    "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Singleton/Singleton.csproj": {
+    "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Creational/Singleton/Singleton.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Singleton/Singleton.csproj",
+        "projectUniqueName": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Creational/Singleton/Singleton.csproj",
         "projectName": "Singleton",
-        "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Singleton/Singleton.csproj",
+        "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Creational/Singleton/Singleton.csproj",
         "packagesPath": "/Users/Bogdan/.nuget/packages/",
-        "outputPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Singleton/obj/",
+        "outputPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Creational/Singleton/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/Bogdan/.nuget/NuGet/NuGet.Config"
@@ -3589,14 +3641,17 @@
               "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Counting_Sort/Counting_Sort.csproj": {
                 "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Counting_Sort/Counting_Sort.csproj"
               },
-              "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Builder/Builder.csproj": {
-                "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Builder/Builder.csproj"
+              "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Behavioural/Observer_PubSub/Observer_PubSub.csproj": {
+                "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Behavioural/Observer_PubSub/Observer_PubSub.csproj"
               },
-              "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Factory/Factory.csproj": {
-                "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Factory/Factory.csproj"
+              "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Creational/Builder/Builder.csproj": {
+                "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Creational/Builder/Builder.csproj"
               },
-              "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Singleton/Singleton.csproj": {
-                "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Singleton/Singleton.csproj"
+              "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Creational/Factory/Factory.csproj": {
+                "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Creational/Factory/Factory.csproj"
+              },
+              "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Creational/Singleton/Singleton.csproj": {
+                "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Creational/Singleton/Singleton.csproj"
               },
               "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_10_Merge_Sort/Day_10_Merge_Sort.csproj": {
                 "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_10_Merge_Sort/Day_10_Merge_Sort.csproj"

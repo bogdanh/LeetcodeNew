@@ -334,6 +334,16 @@
           "bin/placeholder/Library.dll": {}
         }
       },
+      "Observer_PubSub/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Observer_PubSub.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Observer_PubSub.dll": {}
+        }
+      },
       "Q10_Regular_Expression_Matching/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -792,8 +802,8 @@
   "libraries": {
     "Builder/1.0.0": {
       "type": "project",
-      "path": "../Design Patterns/Builder/Builder.csproj",
-      "msbuildProject": "../Design Patterns/Builder/Builder.csproj"
+      "path": "../Design Patterns/Creational/Builder/Builder.csproj",
+      "msbuildProject": "../Design Patterns/Creational/Builder/Builder.csproj"
     },
     "Counting_Sort/1.0.0": {
       "type": "project",
@@ -907,8 +917,8 @@
     },
     "Factory/1.0.0": {
       "type": "project",
-      "path": "../Design Patterns/Factory/Factory.csproj",
-      "msbuildProject": "../Design Patterns/Factory/Factory.csproj"
+      "path": "../Design Patterns/Creational/Factory/Factory.csproj",
+      "msbuildProject": "../Design Patterns/Creational/Factory/Factory.csproj"
     },
     "Find_Any_One_Duplicate/1.0.0": {
       "type": "project",
@@ -919,6 +929,11 @@
       "type": "project",
       "path": "../Library/Library.csproj",
       "msbuildProject": "../Library/Library.csproj"
+    },
+    "Observer_PubSub/1.0.0": {
+      "type": "project",
+      "path": "../Design Patterns/Behavioural/Observer_PubSub/Observer_PubSub.csproj",
+      "msbuildProject": "../Design Patterns/Behavioural/Observer_PubSub/Observer_PubSub.csproj"
     },
     "Q10_Regular_Expression_Matching/1.0.0": {
       "type": "project",
@@ -1112,8 +1127,8 @@
     },
     "Singleton/1.0.0": {
       "type": "project",
-      "path": "../Design Patterns/Singleton/Singleton.csproj",
-      "msbuildProject": "../Design Patterns/Singleton/Singleton.csproj"
+      "path": "../Design Patterns/Creational/Singleton/Singleton.csproj",
+      "msbuildProject": "../Design Patterns/Creational/Singleton/Singleton.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1144,6 +1159,7 @@
       "Factory >= 1.0.0",
       "Find_Any_One_Duplicate >= 1.0.0",
       "Library >= 1.0.0",
+      "Observer_PubSub >= 1.0.0",
       "Q10_Regular_Expression_Matching >= 1.0.0",
       "Q1249_Minimum_Remove_To_Make_Valid_Parentheses >= 1.0.0",
       "Q1428_Leftmost_Column_With_Least_One >= 1.0.0",
@@ -1213,14 +1229,17 @@
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Counting_Sort/Counting_Sort.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Counting_Sort/Counting_Sort.csproj"
             },
-            "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Builder/Builder.csproj": {
-              "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Builder/Builder.csproj"
+            "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Behavioural/Observer_PubSub/Observer_PubSub.csproj": {
+              "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Behavioural/Observer_PubSub/Observer_PubSub.csproj"
             },
-            "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Factory/Factory.csproj": {
-              "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Factory/Factory.csproj"
+            "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Creational/Builder/Builder.csproj": {
+              "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Creational/Builder/Builder.csproj"
             },
-            "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Singleton/Singleton.csproj": {
-              "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Singleton/Singleton.csproj"
+            "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Creational/Factory/Factory.csproj": {
+              "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Creational/Factory/Factory.csproj"
+            },
+            "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Creational/Singleton/Singleton.csproj": {
+              "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Creational/Singleton/Singleton.csproj"
             },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_10_Merge_Sort/Day_10_Merge_Sort.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Formation/21_Days_Challenge/Day_10_Merge_Sort/Day_10_Merge_Sort.csproj"

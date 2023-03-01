@@ -66,6 +66,7 @@
     <ProjectReference Include="..\Design Patterns\Creational\Factory\Factory.csproj" />
     <ProjectReference Include="..\Design Patterns\Creational\Builder\Builder.csproj" />
     <ProjectReference Include="..\Design Patterns\Creational\Singleton\Singleton.csproj" />
+    <ProjectReference Include="..\Design Patterns\Behavioural\Observer_PubSub\Observer_PubSub.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
