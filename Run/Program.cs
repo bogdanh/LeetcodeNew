@@ -75,7 +75,8 @@
             // DesignPatterns.Factory.Factory.Run();
             // DesignPatterns.Builder.Builder.Run();
             // DesignPatterns.Singleton.Singleton.Run();
-            DesignPatterns.Observer_PubSub.Observer_PubSub.Run();
+            // DesignPatterns.Observer_PubSub.Observer_PubSub.Run();
+            DesignPattern.Iterator.Iterator.Run();
         }
     }
 }

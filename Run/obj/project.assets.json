@@ -324,6 +324,16 @@
           "bin/placeholder/Find_Any_One_Duplicate.dll": {}
         }
       },
+      "Iterator/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Iterator.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Iterator.dll": {}
+        }
+      },
       "Library/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -925,6 +935,11 @@
       "path": "../Misc/Find_Any_One_Duplicate/Find_Any_One_Duplicate.csproj",
       "msbuildProject": "../Misc/Find_Any_One_Duplicate/Find_Any_One_Duplicate.csproj"
     },
+    "Iterator/1.0.0": {
+      "type": "project",
+      "path": "../Design Patterns/Behavioural/Iterator/Iterator.csproj",
+      "msbuildProject": "../Design Patterns/Behavioural/Iterator/Iterator.csproj"
+    },
     "Library/1.0.0": {
       "type": "project",
       "path": "../Library/Library.csproj",
@@ -1158,6 +1173,7 @@
       "Day_9_BinarySearch_In_Array_Q704 >= 1.0.0",
       "Factory >= 1.0.0",
       "Find_Any_One_Duplicate >= 1.0.0",
+      "Iterator >= 1.0.0",
       "Library >= 1.0.0",
       "Observer_PubSub >= 1.0.0",
       "Q10_Regular_Expression_Matching >= 1.0.0",
@@ -1228,6 +1244,9 @@
           "projectReferences": {
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Counting_Sort/Counting_Sort.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Counting_Sort/Counting_Sort.csproj"
+            },
+            "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Behavioural/Iterator/Iterator.csproj": {
+              "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Behavioural/Iterator/Iterator.csproj"
             },
             "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Behavioural/Observer_PubSub/Observer_PubSub.csproj": {
               "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Design Patterns/Behavioural/Observer_PubSub/Observer_PubSub.csproj"
