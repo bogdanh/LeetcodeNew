@@ -70,13 +70,14 @@
 
             // Misc
             // Counting_Sort.Counting_Sort.Run();
+            Find_Any_One_Duplicate.Find_Any_One_Duplicate.Run();
 
             // Design Patterns
             // DesignPatterns.Factory.Factory.Run();
             // DesignPatterns.Builder.Builder.Run();
             // DesignPatterns.Singleton.Singleton.Run();
             // DesignPatterns.Observer_PubSub.Observer_PubSub.Run();
-            DesignPattern.Iterator.Iterator.Run();
+            // DesignPattern.Iterator.Iterator.Run();
         }
     }
 }

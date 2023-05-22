@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Run/Run.csproj": {}
+    "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/run/Run.csproj": {}
   },
   "projects": {
     "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Counting_Sort/Counting_Sort.csproj": {
@@ -3735,14 +3735,14 @@
         }
       }
     },
-    "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Run/Run.csproj": {
+    "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/run/Run.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Run/Run.csproj",
+        "projectUniqueName": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/run/Run.csproj",
         "projectName": "Run",
-        "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Run/Run.csproj",
+        "projectPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/run/Run.csproj",
         "packagesPath": "/Users/Bogdan/.nuget/packages/",
-        "outputPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/Run/obj/",
+        "outputPath": "/Users/Bogdan/Documents/Work/CtCI/VS_Code/LeetcodeNew/run/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/Bogdan/.nuget/NuGet/NuGet.Config"
